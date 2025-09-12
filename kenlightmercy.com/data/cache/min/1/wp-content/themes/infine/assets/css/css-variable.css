@@ -1,0 +1,15 @@
+body {
+  gold: #042a2d;
+  --e-global-color-secondary: #f2f1ed;
+  gold: #8f8f8f;
+  --e-global-color-accent: #73ed7c;
+  --e-global-color-accentsecondary: #019297;
+  --e-global-color-white: #ffffff;
+  --e-global-color-black: #000000;
+  --e-global-color-divider: #dfe1de;
+  --e-global-color-darkdivider: #ffffff33;
+  --e-global-typography-primary-font-family: "Plus Jakarta Sans", sans-serif;
+  --e-global-typography-secondary-font-family: "Plus Jakarta Sans", sans-serif;
+  --e-global-typography-text-font-family: "Plus Jakarta Sans", sans-serif;
+  --e-global-typography-accent-font-family: "Plus Jakarta Sans", sans-serif;
+}

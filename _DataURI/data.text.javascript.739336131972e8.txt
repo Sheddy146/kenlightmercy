@@ -1,0 +1,32 @@
+
+                    document.addEventListener('contextmenu', event => event.preventDefault());
+                                                                const disable_events = ['drag', 'drop'];
+                                disable_events.forEach( function( event_name ) {
+                                    document.addEventListener( event_name, function (event) {
+                                            event.preventDefault()
+                                            return false;    
+                                    });    
+                                    
+                                });
+                                
+                                                        
+                                 
+                        document.addEventListener("keydown",  function (event) {
+
+                                                                                    if (event.ctrlKey && event.keyCode === 85) {
+                                    event.preventDefault()
+                                    return false;
+                                }
+                                                                                    if (event.ctrlKey && event.keyCode === 80) {
+                                    event.preventDefault()
+                                    return false;
+                                }
+                                                                                    if (event.ctrlKey && event.keyCode === 44) {
+                                    event.preventDefault()
+                                    return false;
+                                }
+                                                        
+                            });
+                            
+                            
+                                                                        
