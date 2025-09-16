@@ -57,7 +57,7 @@
 .gform_wrapper.gravity-theme .gform_validation_errors {
   background: #fff9f9;
   border-radius: 5px;
-  border: 1.5px solid #c02b0a;
+  border: 1.5px solid gold;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.11), 0 0 4px rgba(18, 25, 97, 0.0405344);
   margin-block-end: 8px;
   margin-block-start: 8px;
@@ -68,11 +68,11 @@
   width: 100%;
 }
 .gform_wrapper.gravity-theme .gform_validation_errors:focus {
-  outline: 2px solid #c02b0a;
+  outline: 2px solid gold;
   outline-offset: 2px;
 }
 .gform_wrapper.gravity-theme .gform_validation_errors > h2 {
-  color: #c02b0a;
+  color: gold;
   font-size: 13.2px;
   font-weight: 500;
   line-height: 17.6px;
@@ -100,15 +100,15 @@
   padding-inline-start: 20px;
 }
 .gform_wrapper.gravity-theme .gform_validation_errors > ol a {
-  color: #c02b0a;
+  color: gold;
   font-size: 13.2px;
 }
 .gform_wrapper.gravity-theme .gform_validation_errors > ol a:focus {
-  outline: 2px solid #c02b0a;
+  outline: 2px solid gold;
   outline-offset: 2px;
 }
 .gform_wrapper.gravity-theme .gform_validation_errors > ol li {
-  color: #c02b0a;
+  color: gold;
   font-size: 13.2px;
   list-style-type: disc !important;
   margin-block-end: 8px;
@@ -119,7 +119,7 @@
   margin-block-end: 0;
 }
 .gform_wrapper.gravity-theme .gfield_required {
-  color: #c02b0a;
+  color: gold;
   display: inline-block;
   font-size: 13.008px;
   padding-inline-start: 0.125em;
@@ -133,9 +133,9 @@
   padding-inline-start: 0;
 }
 .gform_wrapper.gravity-theme .validation_error {
-  border-block-end: 2px solid #c02b0a;
-  border-block-start: 2px solid #c02b0a;
-  color: #c02b0a;
+  border-block-end: 2px solid gold;
+  border-block-start: 2px solid gold;
+  color: gold;
   font-size: 1em;
   font-weight: 700;
   margin-block-end: 32px;
@@ -149,12 +149,12 @@
 .gform_wrapper.gravity-theme .validation_message,
 .gform_wrapper.gravity-theme [aria-invalid="true"] + label,
 .gform_wrapper.gravity-theme label + [aria-invalid="true"] {
-  color: #c02b0a;
+  color: gold;
 }
 .gform_wrapper.gravity-theme .gfield_validation_message,
 .gform_wrapper.gravity-theme .validation_message {
   background: #fff9f9;
-  border: 1px solid #c02b0a;
+  border: 1px solid gold;
   font-size: 14.992px;
   margin-block-start: 8px;
   padding: 12.992px 24px;
@@ -182,7 +182,7 @@
   margin-block-end: 16px;
 }
 .gform_wrapper.gravity-theme .gfield_error [aria-invalid="true"] {
-  border: 1px solid #c02b0a;
+  border: 1px solid gold;
 }
 .gform_wrapper.gravity-theme .gform_previous_button.button,
 .gform_wrapper.gravity-theme .gform_save_link.button {
@@ -366,14 +366,14 @@
 }
 .gform_wrapper.gravity-theme .gfield_creditcard_warning {
   background-color: rgba(255, 223, 224, 0.25);
-  border-bottom: 4px solid #c02b0a;
-  border-top: 2px solid #c02b0a;
+  border-bottom: 4px solid gold;
+  border-top: 2px solid gold;
   padding: 16px;
 }
 .gform_wrapper.gravity-theme
   .gfield_creditcard_warning
   .gfield_creditcard_warning_message {
-  color: #c02b0a;
+  color: gold;
   font-family: inherit;
   font-size: 16px;
   font-weight: 700;
@@ -388,7 +388,7 @@
   background-position: 0 3.2px;
   background-repeat: no-repeat;
   background-size: 24px 16px;
-  border-bottom: 1px solid #c02b0a;
+  border-bottom: 1px solid gold;
   display: block;
   letter-spacing: 0.1pt;
   margin-bottom: 16px;
@@ -1117,7 +1117,7 @@ html[dir="rtl"] .gform_wrapper.gravity-theme input + input {
   .gfield_error
   .ginput_container_image_choice
   .gfield-choice-image-wrapper::before {
-  border-color: #c02b0a;
+  border-color: gold;
 }
 .gform_wrapper.gravity-theme:where(:not(.gform_wrapper_edit_form_entry))
   .ginput_container_image_choice.ginput_container_image_choice--label-hide

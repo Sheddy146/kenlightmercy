@@ -1,0 +1,3648 @@
+# Query: menu
+# ContextLines: 1
+
+1515 results - 33 files
+
+kenlightmercy • _DataURI/data.text.javascript.739336131972e8.txt:
+  1  
+  2:                     document.addEventListener('contextmenu', event => event.preventDefault());
+  3                                                                  const disable_events = ['drag', 'drop'];
+
+kenlightmercy • kenlightmercy.com/index.html:
+   157                  "onclick",
+   158:                 "oncontextmenu",
+   159                  "ondblclick",
+
+  2692          <div
+  2693:           class="elementor-element elementor-element-3fa8afb header-menu header-version-1 e-flex e-con-boxed e-con e-parent"
+  2694            data-id="3fa8afb"
+
+  2774                  <div
+  2775:                   class="elementor-element elementor-element-e1326b5 header-main-menu elementor-widget elementor-widget-ekit-nav-menu"
+  2776                    data-id="e1326b5"
+
+  2778                    data-settings='{"ekit_we_effect_on":"none"}'
+  2779:                   data-widget_type="ekit-nav-menu.default"
+  2780                  >
+
+  2782                      <nav
+  2783:                       class="ekit-wid-con ekit_menu_responsive_tablet"
+  2784:                       data-hamburger-icon="icon icon-menu-11"
+  2785                        data-hamburger-icon-type="icon"
+
+  2788                        <button
+  2789:                         class="elementskit-menu-hamburger elementskit-menu-toggler"
+  2790                          type="button"
+
+  2794                            aria-hidden="true"
+  2795:                           class="ekit-meu-icon icon icon-menu-11"
+  2796                          ></i>
+
+  2798                        <div
+  2799:                         id="ekit-megamenu-header-menu"
+  2800:                         class="elementskit-menu-container elementskit-menu-offcanvas-elements elementskit-navbar-nav-default ekit-nav-menu-one-page- ekit-nav-dropdown-hover"
+  2801                        >
+  2802                          <ul
+  2803:                           id="menu-header-menu"
+  2804:                           class="elementskit-navbar-nav elementskit-menu-po-left submenu-click-on-icon"
+  2805                          >
+  2806                            <li
+  2807:                             id="menu-item-22"
+  2808:                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-12648 current_page_item menu-item-22 nav-item elementskit-mobile-builder-content active"
+  2809:                             data-vertical-menu="750px"
+  2810                            >
+
+  2812                                href=""
+  2813:                               class="ekit-menu-nav-link active bg-gold-400"
+  2814                                >Home</a
+
+  2817                            <li
+  2818:                             id="menu-item-6713"
+  2819:                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6713 nav-item elementskit-mobile-builder-content"
+  2820:                             data-vertical-menu="750px"
+  2821                            >
+
+  2823                                href=""
+  2824:                               class="ekit-menu-nav-link bg-gold-400"
+  2825                                >Portfolio</a
+
+  2828                            <li
+  2829:                             id="menu-item-13817"
+  2830:                             class="menu-item bg-gold-400 menu-item-type-post_type menu-item-object-page menu-item-13817 nav-item elementskit-mobile-builder-content"
+  2831:                             data-vertical-menu="750px"
+  2832                            >
+
+  2834                                href=""
+  2835:                               class="ekit-menu-nav-link bg-gold-400"
+  2836                                >Consulting</a
+
+  2839                            <li
+  2840:                             id="menu-item-13826"
+  2841:                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13826 nav-item elementskit-mobile-builder-content"
+  2842:                             data-vertical-menu="750px"
+  2843                            >
+
+  2846                                href=""
+  2847:                               class="ekit-menu-nav-link bg-gold-400"
+  2848                                >Mentorship</a
+
+  2851                            <li
+  2852:                             id="menu-item-13820"
+  2853:                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13820 nav-item elementskit-dropdown-has relative_position elementskit-dropdown-menu-default_width elementskit-mobile-builder-content"
+  2854:                             data-vertical-menu="750px"
+  2855                            >
+
+  2857                                href="#"
+  2858:                               class="ekit-menu-nav-link ekit-menu-dropdown-toggle"
+  2859                                >Media<i
+  2860                                  aria-hidden="true"
+  2861:                                 class="icon icon-down-arrow1 elementskit-submenu-indicator"
+  2862                                ></i
+
+  2864                              <ul
+  2865:                               class="elementskit-dropdown elementskit-submenu-panel"
+  2866                              >
+  2867                                <li
+  2868:                                 id="menu-item-13825"
+  2869:                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13825 nav-item elementskit-mobile-builder-content"
+  2870:                                 data-vertical-menu="750px"
+  2871                                >
+
+  2878                                <li
+  2879:                                 id="menu-item-21"
+  2880:                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21 nav-item elementskit-mobile-builder-content"
+  2881:                                 data-vertical-menu="750px"
+  2882                                >
+
+  2889                                <li
+  2890:                                 id="menu-item-13824"
+  2891:                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13824 nav-item elementskit-mobile-builder-content"
+  2892:                                 data-vertical-menu="750px"
+  2893                                >
+
+  2900                                <li
+  2901:                                 id="menu-item-13819"
+  2902:                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13819 nav-item elementskit-mobile-builder-content"
+  2903:                                 data-vertical-menu="750px"
+  2904                                >
+
+  2913                            <li
+  2914:                             id="menu-item-6714"
+  2915:                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6714 nav-item elementskit-mobile-builder-content"
+  2916:                             data-vertical-menu="750px"
+  2917                            >
+
+  2919                                href=""
+  2920:                               class="ekit-menu-nav-link"
+  2921                                >Contact Kenlight Mercy</a
+
+  2926                            <button
+  2927:                             class="elementskit-menu-close elementskit-menu-toggler"
+  2928                              type="button"
+
+  2934                        <div
+  2935:                         class="elementskit-menu-overlay elementskit-menu-offcanvas-elements elementskit-menu-toggler ekit-nav-menu--overlay"
+  2936                        ></div>
+
+  8509                        <div
+  8510:                         class="elementor-element elementor-element-1649486 elementor-nav-menu__align-start elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu"
+  8511                          data-id="1649486"
+  8512                          data-element_type="widget"
+  8513:                         data-settings='{"layout":"vertical","submenu_icon":{"value":"&lt;i class=\"fas fa-caret-down\"&gt;&lt;\/i&gt;","library":"fa-solid"},"ekit_we_effect_on":"none"}'
+  8514:                         data-widget_type="nav-menu.default"
+  8515                        >
+
+  8517                            <nav
+  8518:                             aria-label="Menu"
+  8519:                             class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-underline e--animation-fade"
+  8520                            >
+  8521                              <ul
+  8522:                               id="menu-1-1649486"
+  8523:                               class="elementor-nav-menu sm-vertical"
+  8524                              >
+  8525                                <li
+  8526:                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13861"
+  8527                                >
+
+  8534                                <li
+  8535:                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13863"
+  8536                                >
+
+  8543                                <li
+  8544:                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13862"
+  8545                                >
+
+  8552                                <li
+  8553:                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13864"
+  8554                                >
+
+  8564                            <nav
+  8565:                             class="elementor-nav-menu--dropdown elementor-nav-menu__container"
+  8566                              aria-hidden="true"
+
+  8568                              <ul
+  8569:                               id="menu-2-1649486"
+  8570:                               class="elementor-nav-menu sm-vertical"
+  8571                              >
+  8572                                <li
+  8573:                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13861"
+  8574                                >
+
+  8582                                <li
+  8583:                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13863"
+  8584                                >
+
+  8592                                <li
+  8593:                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13862"
+  8594                                >
+
+  8602                                <li
+  8603:                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13864"
+  8604                                >
+
+  8638                        <div
+  8639:                         class="elementor-element elementor-element-ad5cad5 elementor-nav-menu__align-start elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu"
+  8640                          data-id="ad5cad5"
+  8641                          data-element_type="widget"
+  8642:                         data-settings='{"layout":"vertical","submenu_icon":{"value":"&lt;i class=\"fas fa-caret-down\"&gt;&lt;\/i&gt;","library":"fa-solid"},"ekit_we_effect_on":"none"}'
+  8643:                         data-widget_type="nav-menu.default"
+  8644                        >
+
+  8646                            <nav
+  8647:                             aria-label="Menu"
+  8648:                             class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-underline e--animation-fade"
+  8649                            >
+  8650                              <ul
+  8651:                               id="menu-1-ad5cad5"
+  8652:                               class="elementor-nav-menu sm-vertical"
+  8653                              >
+  8654                                <li
+  8655:                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13866"
+  8656                                >
+
+  8663                                <li
+  8664:                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13865"
+  8665                                >
+
+  8672                                <li
+  8673:                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13867"
+  8674                                >
+
+  8681                                <li
+  8682:                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13868"
+  8683                                >
+
+  8692                            <nav
+  8693:                             class="elementor-nav-menu--dropdown elementor-nav-menu__container"
+  8694                              aria-hidden="true"
+
+  8696                              <ul
+  8697:                               id="menu-2-ad5cad5"
+  8698:                               class="elementor-nav-menu sm-vertical"
+  8699                              >
+  8700                                <li
+  8701:                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13866"
+  8702                                >
+
+  8710                                <li
+  8711:                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13865"
+  8712                                >
+
+  8720                                <li
+  8721:                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13867"
+  8722                                >
+
+  8730                                <li
+  8731:                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13868"
+  8732                                >
+
+  8940                        <div
+  8941:                         class="elementor-element elementor-element-9d06b5a footer-links elementor-widget elementor-widget-ekit-vertical-menu"
+  8942                          data-id="9d06b5a"
+
+  8944                          data-settings='{"ekit_we_effect_on":"none"}'
+  8945:                         data-widget_type="ekit-vertical-menu.default"
+  8946                        >
+
+  8949                              <div
+  8950:                               class="ekit-vertical-main-menu-wraper badge-position-left"
+  8951                              >
+  8952:                               <div class="ekit-vertical-menu-container">
+  8953                                  <ul
+  8954:                                   id="menu-footer-menu"
+  8955:                                   class="ekit-vertical-navbar-nav submenu-click-on-icon"
+  8956                                  >
+  8957                                    <li
+  8958:                                     id="menu-item-7827"
+  8959:                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7827 nav-item elementskit-mobile-builder-content"
+  8960:                                     data-vertical-menu="750px"
+  8961                                    >
+
+  8963                                        href=""
+  8964:                                       class="ekit-menu-nav-link"
+  8965                                        >Contact Kenlight Mercy</a
+
+  8968                                    <li
+  8969:                                     id="menu-item-13870"
+  8970:                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-13870 nav-item elementskit-mobile-builder-content"
+  8971:                                     data-vertical-menu="750px"
+  8972                                    >
+
+  8974                                        href=""
+  8975:                                       class="ekit-menu-nav-link"
+  8976                                        >Privacy Policy</a
+
+  9058      <script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+  9059:       document.addEventListener('contextmenu', event => event.preventDefault());
+  9060                                                    const disable_events = ['drag', 'drop'];
+
+  9198        rel="stylesheet"
+  9199:       id="widget-nav-menu-css"
+  9200:       href="https://jamiepajoel.ca/data/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.31.2"
+  9201        media="all"
+
+  9775      <script
+  9776:       src="https://jamiepajoel.ca/data/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1"
+  9777:       id="smartmenus-js"
+  9778      ></script>
+
+kenlightmercy • kenlightmercy.com/data/cache/min/1/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css:
+   108  }
+   109: .eicon-menu-bar:before {
+   110    content: "\e816";
+
+   222  }
+   223: .eicon-menu-card:before {
+   224    content: "\e83c";
+
+   228  }
+   229: .eicon-nav-menu:before {
+   230    content: "\e83e";
+
+   525  }
+   526: .eicon-menu-toggle:before {
+   527    content: "\e8a1";
+
+  1374  }
+  1375: .eicon-mega-menu:before {
+  1376    content: "\eb78";
+
+kenlightmercy • kenlightmercy.com/data/cache/min/1/wp-content/plugins/elementskit/widgets/init/assets/css/widget-styles-pro.css:
+   2009    .ekit-mini-cart-container
+   2010:   .ekit-dropdown-menu-mini-cart
+   2011    ul {
+
+   2017    .ekit-mini-cart-container
+   2018:   .ekit-dropdown-menu-mini-cart
+   2019    ul
+
+   2028    .ekit-mini-cart-container
+   2029:   .ekit-dropdown-menu-mini-cart
+   2030    ul
+
+   2036    .ekit-mini-cart-container
+   2037:   .ekit-dropdown-menu-mini-cart
+   2038    ul
+
+   2050    .ekit-mini-cart-container
+   2051:   .ekit-dropdown-menu-mini-cart
+   2052    ul
+
+   2061    .ekit-mini-cart-container
+   2062:   .ekit-dropdown-menu-mini-cart
+   2063    ul
+
+   2081    .ekit-mini-cart-container
+   2082:   .ekit-dropdown-menu-mini-cart
+   2083    ul
+
+   2093    .ekit-mini-cart-container
+   2094:   .ekit-dropdown-menu-mini-cart
+   2095    .woocommerce-mini-cart__total {
+
+   2106    .ekit-mini-cart-container
+   2107:   .ekit-dropdown-menu-mini-cart
+   2108    .woocommerce-mini-cart__total
+
+   2114    .ekit-mini-cart-container
+   2115:   .ekit-dropdown-menu-mini-cart
+   2116    .woocommerce-mini-cart__buttons {
+
+   2121    .ekit-mini-cart-container
+   2122:   .ekit-dropdown-menu-mini-cart
+   2123    .woocommerce-mini-cart__buttons
+
+   2129    .ekit-mini-cart-container
+   2130:   .ekit-dropdown-menu-mini-cart
+   2131    .woocommerce-mini-cart__buttons
+
+   2229  }
+   2230: .ekit-wid-con .ekit-wid-con ul.ekit-dropdown-menu.ekit-dropdown-menu-mini-cart {
+   2231    display: none;
+
+   4902  }
+   4903: .ekit-wid-con .ekit_menu_style_vertical.elementskit-menu-container {
+   4904    height: auto;
+
+   4907  }
+   4908: .ekit-wid-con .ekit_menu_style_vertical .elementskit-navbar-nav {
+   4909    -webkit-box-orient: vertical;
+
+   4914  .ekit-wid-con
+   4915:   .ekit_menu_style_vertical
+   4916    .elementskit-navbar-nav
+
+   4918  .ekit-wid-con
+   4919:   .ekit_menu_style_vertical
+   4920    .elementskit-navbar-nav
+   4921:   .elementskit-megamenu-panel {
+   4922    top: 0;
+
+   4925  .ekit-wid-con
+   4926:   .ekit_menu_style_vertical
+   4927:   .elementskit-navbar-nav.elementskit-menu-po-center
+   4928    > li
+
+   4932  .ekit-wid-con
+   4933:   .ekit_menu_style_vertical
+   4934:   .elementskit-navbar-nav.elementskit-menu-po-right
+   4935    > li
+
+   4939  .ekit-wid-con
+   4940:   .ekit_menu_style_vertical
+   4941    .elementskit-navbar-nav
+   4942:   > li.elementskit-megamenu-has {
+   4943    position: relative;
+   4944  }
+   4945: .ekit-wid-con .ekit_menu_style_vertical .elementskit-navbar-nav > li > a {
+   4946    display: block;
+
+   4948  .ekit-wid-con
+   4949:   .ekit_menu_style_vertical
+   4950    .elementskit-navbar-nav
+   4951:   .elementskit-megamenu-panel {
+   4952    width: 818px;
+
+   6737  }
+   6738: .ekit-wid-con .ekit-twitter-feed-comments .ekit-twitter-feed-share__menu {
+   6739    position: absolute;
+
+   6755  }
+   6756: .ekit-wid-con .ekit-twitter-feed-comments .ekit-twitter-feed-share__menu a {
+   6757    display: -webkit-box;
+
+   6766  }
+   6767: .ekit-wid-con .ekit-twitter-feed-comments .ekit-twitter-feed-share__menu a i {
+   6768    margin-right: 8px;
+
+   6772    .ekit-twitter-feed-share:hover
+   6773:   .ekit-twitter-feed-share__menu {
+   6774    opacity: 1;
+
+   8651  }
+   8652: .ekit-wid-con .ekit-fb-feed-header-menu {
+   8653    cursor: pointer;
+
+   8658  }
+   8659: .ekit-wid-con .ekit-fb-feed-header-menu__content {
+   8660    right: 0;
+
+   8673  }
+   8674: .ekit-wid-con .ekit-fb-feed-header-menu__content a {
+   8675    display: block;
+
+   8681  }
+   8682: .ekit-wid-con .ekit-fb-feed-header-menu__content a:hover {
+   8683    color: #1261eb;
+   8684  }
+   8685: .ekit-wid-con .ekit-fb-feed-header-menu__toggler {
+   8686    padding: 0 4px 8px 4px;
+   8687  }
+   8688: .ekit-wid-con .ekit-fb-feed-header-menu__toggler .icon {
+   8689    font-size: 13px;
+
+   8692  }
+   8693: .ekit-wid-con .ekit-fb-feed-header-menu__toggler .three-dot-icon span {
+   8694    background-color: #a0a3a8;
+
+   8697  }
+   8698: .ekit-wid-con .ekit-fb-feed-header-menu__toggler .rotate-on-hover {
+   8699    display: block;
+
+   8704  }
+   8705: .ekit-wid-con .ekit-fb-feed-header-menu__toggler .rotate-on-hover:hover {
+   8706    -webkit-transform: rotate(180deg);
+
+   8708  }
+   8709: .ekit-wid-con .ekit-fb-feed-header-menu__toggler:hover .icon {
+   8710    color: #1261eb;
+   8711  }
+   8712: .ekit-wid-con .ekit-fb-feed-header-menu__toggler:hover .three-dot-icon span {
+   8713    background-color: #1261eb;
+
+   8715  .ekit-wid-con
+   8716:   .ekit-fb-feed-header-menu__toggler:hover
+   8717:   .ekit-fb-feed-header-menu__content {
+   8718    opacity: 1;
+
+   8721  }
+   8722: .ekit-wid-con .ekit-fb-feed-header-menu__toggler:hover .rotate-on-hover {
+   8723    -webkit-transform: rotate(180deg);
+
+   9045    .facebook-feed-card.image-in-background.bg-img-style-2
+   9046:   .ekit-fb-feed-header-menu {
+   9047    top: 36px !important;
+
+   9051    .facebook-feed-card.image-in-background.bg-img-style-2
+   9052:   .ekit-fb-feed-header-menu
+   9053    i {
+
+   9057    .facebook-feed-card.image-in-background.bg-img-style-2
+   9058:   .ekit-fb-feed-header-menu
+   9059    .three-dot-icon
+
+   9346  }
+   9347: .ekit-wid-con .ekit-fb-feed-share__menu {
+   9348    position: absolute;
+
+   9364  }
+   9365: .ekit-wid-con .ekit-fb-feed-share__menu > a {
+   9366    display: -webkit-box;
+
+   9375  }
+   9376: .ekit-wid-con .ekit-fb-feed-share__menu > a,
+   9377: .ekit-wid-con .ekit-fb-feed-share__menu > a .icon {
+   9378    -webkit-transition: all 0.3s;
+
+   9380  }
+   9381: .ekit-wid-con .ekit-fb-feed-share__menu > a .icon {
+   9382    margin-right: 8px;
+
+   9389  }
+   9390: .ekit-wid-con .ekit-fb-feed-share__share:hover .ekit-fb-feed-share__menu {
+   9391    opacity: 1;
+
+  14078  }
+  14079: .ekit-wid-con .ekit-price-menu {
+  14080    list-style: none;
+  14081  }
+  14082: .ekit-wid-con .ekit-price-menu-item {
+  14083    display: -webkit-box;
+
+  14093  }
+  14094: .ekit-wid-con .ekit-price-menu-image {
+  14095    padding-right: 25px;
+
+  14097  }
+  14098: .ekit-wid-con .ekit-price-menu-image > img {
+  14099    vertical-align: middle;
+  14100  }
+  14101: .ekit-wid-con .ekit-price-menu-icon {
+  14102    margin-right: 25px;
+  14103  }
+  14104: .ekit-wid-con .ekit-price-menu-icon > i {
+  14105    font-size: 30px;
+
+  14111  }
+  14112: .ekit-wid-con .ekit-price-menu-caption {
+  14113    width: 100%;
+  14114  }
+  14115: .ekit-wid-con .ekit-price-menu-caption-header {
+  14116    display: -webkit-box;
+
+  14128  }
+  14129: .ekit-wid-con .ekit-price-menu-caption-title {
+  14130    -webkit-transition: color 0.4s ease;
+
+  14132  }
+  14133: .ekit-wid-con .ekit-price-menu-caption-title a {
+  14134    color: #000;
+  14135  }
+  14136: .ekit-wid-con .ekit-price-menu-caption-separator {
+  14137    border-bottom: 1px solid rgba(6, 33, 38, 0.2);
+
+  14142  }
+  14143: .ekit-wid-con .ekit-price-menu-caption-description {
+  14144    font-weight: 400;
+
+  14147  }
+  14148: .ekit-wid-con .ekit-price-menu-caption-button {
+  14149    font-weight: 600;
+
+  14156  }
+  14157: .ekit-wid-con .ekit-price-menu-caption-button > i {
+  14158    font-size: inherit;
+
+  14162  }
+  14163: .ekit-wid-con .ekit-price-menu-caption-button > svg {
+  14164    font-size: inherit;
+  14165  }
+  14166: .ekit-wid-con .ekit-price-menu-caption a:not([href]):not([tabindex]) {
+  14167    text-decoration: underline;
+
+  14191  }
+  14192: .ekit-wid-con .ekit-price-card-item .ekit-price-menu-icon {
+  14193    text-align: center;
+  14194  }
+  14195: .ekit-wid-con .ekit-price-card-item .ekit-price-menu-icon > i {
+  14196    background: 0 0;
+
+  14290  }
+  14291: .ekit-wid-con .price-menu-button-icon-before {
+  14292    margin-right: 6px;
+  14293  }
+  14294: .ekit-wid-con .price-menu-button-icon-after {
+  14295    margin-left: 6px;
+
+  17962  }
+  17963: .ekit-wid-con .ekit-circle-menu-box li {
+  17964    background-color: #000;
+
+  17968  }
+  17969: .ekit-wid-con .ekit-circle-menu-box li:hover {
+  17970    background-color: #ca8306;
+  17971  }
+  17972: .ekit-wid-con .ekit-circle-menu-box li a {
+  17973    display: inline-grid;
+
+  17980  }
+  17981: .ekit-wid-con .ekit-circle-menu-box li a i,
+  17982: .ekit-wid-con .ekit-circle-menu-box li a svg {
+  17983    -webkit-transition: 0.3s;
+
+  17985  }
+  17986: .ekit-wid-con .ekit-circle-menu-box li a .ekit-circle-menu-item-tooltip {
+  17987    position: absolute;
+
+  17999  .ekit-wid-con
+  18000:   .ekit-circle-menu-box
+  18001    li
+  18002    a
+  18003:   .ekit-circle-menu-item-tooltip::before {
+  18004    border-top: 8px solid transparent;
+
+  18016  .ekit-wid-con
+  18017:   .ekit-circle-menu-box.circleMenu-open
+  18018    li:hover
+  18019    a
+  18020:   .ekit-circle-menu-item-tooltip {
+  18021    -webkit-transform: translateY(-50%) rotate(0);
+
+  18028  .ekit-wid-con
+  18029:   .ekit-circle-menu-box.circleMenu-open
+  18030:   li.ekit-circle-menu-item-first
+  18031:   .ekit-circle-menu-item
+  18032:   .ekit-circle-menu-wrapper {
+  18033    -webkit-transform: scale(0);
+
+  18036  .ekit-wid-con
+  18037:   .ekit-circle-menu-box.circleMenu-open
+  18038:   li.ekit-circle-menu-item-first
+  18039:   .ekit-circle-menu-item
+  18040:   .ekit-circle-menu-close {
+  18041    top: 50%;
+
+  18046  .ekit-wid-con
+  18047:   .ekit-circle-menu-box.circleMenu-closed
+  18048:   li.ekit-circle-menu-item-first
+  18049:   .ekit-circle-menu-item
+  18050:   .ekit-circle-menu-close {
+  18051    -webkit-transform: scale(0);
+
+  18054  .ekit-wid-con
+  18055:   .ekit-circle-menu-box.circleMenu-closed
+  18056:   li.ekit-circle-menu-item-first
+  18057:   .ekit-circle-menu-item
+  18058:   .ekit-circle-menu-wrapper {
+  18059    -webkit-transform: scale(1);
+
+  18061  }
+  18062: .ekit-wid-con .ekit-circle-menu-wrapper {
+  18063    display: grid;
+  18064  }
+  18065: .ekit-wid-con .ekit-circle-menu-close i,
+  18066: .ekit-wid-con .ekit-circle-menu-close svg {
+  18067    position: relative;
+
+kenlightmercy • kenlightmercy.com/data/cache/min/1/wp-content/plugins/elementskit/widgets/init/assets/js/elementor.js:
+    34          "elementskit-hotspot.default": i.Hotspot,
+    35:         "ekit-vertical-menu.default": i.Vertical_Menu,
+    36          "elementskit-video-gallery.default": i.Video_Gallery,
+
+    43          "elementskit-fancy-animated-text.default": i.Fancy_Animated_Text,
+    44:         "elementskit-price-menu.default": i.Price_Menu,
+    45          "elementskit-team-slider.default": i.Team_Slider,
+
+    54          "elementskit-interactive-links.default": i.Interactive_Links,
+    55:         "elementskit-circle-menu.default": i.Circle_Menu,
+    56          "elementskit-advanced-search.default": i.Advanced_Search,
+
+    63        var t = e(this),
+    64:         i = ["ekit-nav-menu", "ekit-vertical-menu", "gallery", "accordion"],
+    65          n = 0;
+
+   461              pageLength: d,
+   462:             lengthMenu: [
+   463                [d, 10, 25, 50, 100, -1],
+
+   478                  : "",
+   479:               lengthMenu: n.entries_text,
+   480                paginate: { next: o + r, previous: l + s },
+
+   668      },
+   669:     Vertical_Menu: function (t) {
+   670:       if (t.find(".ekit-vertical-main-menu-on-click").length > 0) {
+   671:         let i = t.find(".ekit-vertical-main-menu-on-click"),
+   672:           n = t.find(".ekit-vertical-menu-tigger"),
+   673            a = e("body").data("elementor-device-mode");
+   674          ("tablet" !== a && "mobile" !== a) ||
+   675:           i.removeClass("vertical-menu-active"),
+   676            n.on("click", function (e) {
+   677:             e.preventDefault(), i.toggleClass("vertical-menu-active");
+   678            });
+   679        }
+   680:       if (t.find(".elementskit-megamenu-has").length > 0) {
+   681:         let i = t.find(".elementskit-megamenu-has"),
+   682            n = t.parents(".elementor-container"),
+   683:           a = t.find(".ekit-vertical-main-menu-wraper");
+   684          Math.floor(n.width() - a.width());
+   685          i.on("mouseenter", function () {
+   686:           let t = e(this).data("vertical-menu"),
+   687:             i = e(this).children(".elementskit-megamenu-panel");
+   688            t && t !== undefined
+
+   714        }
+   715:       t.find(".megamenu-ajax-load").length > 0 &&
+   716          t
+   717:           .find(".ekit-vertical-main-menu-wraper")
+   718:           .on("mouseenter", ".elementskit-megamenu-has", function (t) {
+   719:             ElementsKit_Helper.megaMenuAjaxLoad(e(this));
+   720            }),
+   721:         t.find(".megamenu-ajax-load").length > 0 &&
+   722            t
+   723:             .find(".ekit-vertical-main-menu-wraper")
+   724:             .on("mouseenter", ".elementskit-megamenu-has", function (t) {
+   725:               ElementsKit_Helper.megaMenuAjaxLoad(e(this));
+   726              });
+
+  1295      },
+  1296:     Price_Menu: function (e) {
+  1297        var i = e
+
+  1724      },
+  1725:     Circle_Menu: function (e) {
+  1726:       let t = e.find(".ekit-circle-menu-wrapper").data("settings");
+  1727:       e.find(".ekit-circle-menu-box").circleMenu({
+  1728:         direction: t.menuDirection,
+  1729:         item_diameter: t.menuDiameter.size,
+  1730:         circle_radius: t.menuRadius.size,
+  1731:         speed: t.menuSpeed.size,
+  1732:         delay: t.menuDelay.size,
+  1733:         step_out: t.menuStepOut.size,
+  1734:         step_in: t.menuStepIn.size,
+  1735:         trigger: t.menuTrigger,
+  1736:         transition_function: t.menuTransition,
+  1737        });
+
+kenlightmercy • kenlightmercy.com/data/cache/min/1/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css:
+   715  }
+   716: .ekit-wid-con .fasicon.icon-menu-circle::before,
+   717: .ekit-wid-con .icon.icon-menu-circle::before,
+   718: .icon.icon-menu-circle::before {
+   719    content: "\e87e";
+
+  1100  }
+  1101: .ekit-wid-con .fasicon.icon-menu1::before,
+  1102: .ekit-wid-con .icon.icon-menu1::before,
+  1103: .icon.icon-menu1::before {
+  1104    content: "\e871";
+
+  2620  }
+  2621: .ekit-wid-con .fasicon.icon-burger-menu::before,
+  2622: .ekit-wid-con .icon.icon-burger-menu::before,
+  2623: .icon.icon-burger-menu::before {
+  2624    content: "\eab8";
+
+  2640  }
+  2641: .ekit-wid-con .fasicon.icon-menu-11::before,
+  2642: .ekit-wid-con .icon.icon-menu-11::before,
+  2643: .icon.icon-menu-11::before {
+  2644    content: "\eaaa";
+  2645  }
+  2646: .ekit-wid-con .fasicon.icon-menu11::before,
+  2647: .ekit-wid-con .icon.icon-menu11::before,
+  2648: .icon.icon-menu11::before {
+  2649    content: "\eaab";
+
+  3187  }
+  3188: .ekit-wid-con .fasicon.icon-menu::before,
+  3189: .ekit-wid-con .icon.icon-menu::before,
+  3190: .icon.icon-menu::before {
+  3191    content: "\eb19";
+  3192  }
+  3193: .ekit-wid-con .fasicon.icon-menu-1::before,
+  3194: .ekit-wid-con .icon.icon-menu-1::before,
+  3195: .icon.icon-menu-1::before {
+  3196    content: "\eb1a";
+  3197  }
+  3198: .ekit-wid-con .fasicon.icon-menu-button-of-three-horizontal-lines::before,
+  3199: .ekit-wid-con .icon.icon-menu-button-of-three-horizontal-lines::before,
+  3200: .icon.icon-menu-button-of-three-horizontal-lines::before {
+  3201    content: "\eb1b";
+  3202  }
+  3203: .ekit-wid-con .fasicon.icon-menu-2::before,
+  3204: .ekit-wid-con .icon.icon-menu-2::before,
+  3205: .icon.icon-menu-2::before {
+  3206    content: "\eb1c";
+  3207  }
+  3208: .ekit-wid-con .fasicon.icon-menu-3::before,
+  3209: .ekit-wid-con .icon.icon-menu-3::before,
+  3210: .icon.icon-menu-3::before {
+  3211    content: "\eb1d";
+  3212  }
+  3213: .ekit-wid-con .fasicon.icon-menu-5::before,
+  3214: .ekit-wid-con .icon.icon-menu-5::before,
+  3215: .icon.icon-menu-5::before {
+  3216    content: "\eb1f";
+  3217  }
+  3218: .ekit-wid-con .fasicon.icon-menu-button::before,
+  3219: .ekit-wid-con .icon.icon-menu-button::before,
+  3220: .icon.icon-menu-button::before {
+  3221    content: "\eb20";
+
+  3227  }
+  3228: .ekit-wid-con .fasicon.icon-menu-6::before,
+  3229: .ekit-wid-con .icon.icon-menu-6::before,
+  3230: .icon.icon-menu-6::before {
+  3231    content: "\eb22";
+  3232  }
+  3233: .ekit-wid-con .fasicon.icon-menu-7::before,
+  3234: .ekit-wid-con .icon.icon-menu-7::before,
+  3235: .icon.icon-menu-7::before {
+  3236    content: "\eb23";
+  3237  }
+  3238: .ekit-wid-con .fasicon.icon-menu-8::before,
+  3239: .ekit-wid-con .icon.icon-menu-8::before,
+  3240: .icon.icon-menu-8::before {
+  3241    content: "\eb24";
+
+  3252  }
+  3253: .ekit-wid-con .fasicon.icon-menu-9::before,
+  3254: .ekit-wid-con .icon.icon-menu-9::before,
+  3255: .icon.icon-menu-9::before {
+  3256    content: "\eb27";
+
+  4367  }
+  4368: .ekit-wid-con .fasicon.icon-off-canvus-menu::before,
+  4369: .ekit-wid-con .icon.icon-off-canvus-menu::before,
+  4370: .icon.icon-off-canvus-menu::before {
+  4371    content: "\e91f";
+
+  4612  }
+  4613: .ekit-wid-con .fasicon.icon-price-menu::before,
+  4614: .ekit-wid-con .icon.icon-price-menu::before,
+  4615: .icon.icon-price-menu::before {
+  4616    content: "\ebf3";
+
+kenlightmercy • kenlightmercy.com/data/cache/min/1/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css:
+   2008  }
+   2009: .elementskit-menu-container {
+   2010    z-index: 10000;
+   2011  }
+   2012: .elementskit-navbar-nav > li > a .ekit-menu-icon {
+   2013    padding-right: 5px;
+   2014  }
+   2015: .ekit-menu-badge {
+   2016    position: absolute;
+
+   2030  }
+   2031: .ekit-menu-badge > .ekit-menu-badge-arrow {
+   2032    position: absolute;
+
+   2045  }
+   2046: .elementskit-dropdown .ekit-menu-badge {
+   2047    top: 50%;
+
+   2074    .elementskit-navbar-nav
+   2075:   > li.elementskit-megamenu-has {
+   2076    position: static;
+
+   2117  }
+   2118: .elementskit-navbar-nav-default .elementskit-submenu-panel > li > a {
+   2119    display: -webkit-box;
+
+   2149  }
+   2150: .elementskit-navbar-nav-default .elementskit-submenu-panel > li:hover > a,
+   2151: .elementskit-navbar-nav-default .elementskit-submenu-panel > li > a:hover {
+   2152    color: #0d3a4f;
+
+   2154  }
+   2155: .elementskit-navbar-nav-default .elementskit-megamenu-panel {
+   2156    width: 100%;
+
+   2163  }
+   2164: .elementskit-navbar-nav-default .elementskit-menu-close {
+   2165    border: 1px solid rgba(0, 0, 0, 0.5);
+
+   2178    > a
+   2179:   .elementskit-submenu-indicator {
+   2180    margin-left: 6px;
+
+   2190      > a
+   2191:     .elementskit-submenu-indicator {
+   2192      padding: 4px 15px;
+
+   2197    > a
+   2198:   .elementskit-submenu-indicator.icon-none {
+   2199    display: none;
+
+   2203    > a
+   2204:   .elementskit-submenu-indicator {
+   2205    font-weight: 900;
+
+   2210    > a
+   2211:   svg.elementskit-submenu-indicator {
+   2212    width: 1em;
+
+   2214  }
+   2215: .elementskit-navbar-nav-default.elementskit-menu-container {
+   2216    background: rgba(255, 255, 255, 0);
+
+   2258  .elementskit-navbar-nav-default
+   2259:   .elementskit-navbar-nav.elementskit-menu-po-center {
+   2260    -webkit-box-pack: center;
+
+   2264  .elementskit-navbar-nav-default
+   2265:   .elementskit-navbar-nav.elementskit-menu-po-right {
+   2266    -webkit-box-pack: end;
+
+   2270  .elementskit-navbar-nav-default
+   2271:   .elementskit-navbar-nav.elementskit-menu-po-justified {
+   2272    -webkit-box-pack: justify;
+
+   2288    }
+   2289:   .elementskit-navbar-nav-default .elementskit-megamenu-panel {
+   2290      -webkit-transform: translateY(-10px);
+
+   2306    .elementskit-navbar-nav-default.ekit-nav-dropdown-hover
+   2307:     .elementskit-megamenu-has:hover
+   2308:     > .elementskit-megamenu-panel {
+   2309      opacity: 1;
+
+   2316  .elementskit-navbar-nav-default.ekit-nav-dropdown-hover
+   2317:   .elementskit-megamenu-has
+   2318    .elementskit-dropdown {
+
+   2330    .elementskit-navbar-nav-default.ekit-nav-dropdown-click
+   2331:     .elementskit-megamenu-has
+   2332:     .elementskit-submenu-panel {
+   2333      display: none;
+
+   2336  @media (max-width: 1024px) {
+   2337:   .ekit_menu_responsive_tablet > .elementskit-navbar-nav-default {
+   2338      background-color: #f7f7f7;
+   2339    }
+   2340:   .elementskit-navbar-nav-default.elementskit-menu-offcanvas-elements {
+   2341      width: 100%;
+
+   2381      .elementskit-nav-identity-panel
+   2382:     .elementskit-menu-close {
+   2383      float: right;
+
+   2400    }
+   2401:   .elementskit-navbar-nav-default .elementskit-submenu-panel > li > a {
+   2402      color: #000;
+
+   2413    }
+   2414:   .elementskit-navbar-nav-default .elementskit-megamenu-panel {
+   2415      display: none;
+
+   2426  @media (max-width: 767px) {
+   2427:   .ekit_menu_responsive_mobile > .elementskit-navbar-nav-default {
+   2428      background-color: #f7f7f7;
+
+   2454  @media only screen and (max-width: 1023px) and (min-width: 768px) {
+   2455:   .ekit_menu_responsive_mobile
+   2456      .elementskit-navbar-nav-default.ekit-nav-dropdown-hover
+
+   2458      > .elementskit-dropdown,
+   2459:   .ekit_menu_responsive_mobile
+   2460      .elementskit-navbar-nav-default.ekit-nav-dropdown-hover
+   2461      .elementskit-dropdown-has:hover
+   2462:     > .elementskit-megamenu-panel,
+   2463:   .ekit_menu_responsive_tablet
+   2464      .elementskit-navbar-nav-default.ekit-nav-dropdown-hover
+
+   2466      > .elementskit-dropdown,
+   2467:   .ekit_menu_responsive_tablet
+   2468      .elementskit-navbar-nav-default.ekit-nav-dropdown-hover
+   2469      .elementskit-dropdown-has:hover
+   2470:     > .elementskit-megamenu-panel {
+   2471      opacity: 1;
+
+   2478  @media only screen and (max-width: 1024px) and (min-width: 766px) {
+   2479:   .ekit_menu_responsive_tablet
+   2480      .elementskit-navbar-nav-default
+   2481:     .elementskit-megamenu-has.elementskit-mobile-builder-content
+   2482      .elementskit-dropdown {
+
+   2484    }
+   2485:   .ekit_menu_responsive_tablet
+   2486      .elementskit-navbar-nav-default
+   2487:     .elementskit-megamenu-has.elementskit-mobile-builder-content
+   2488:     .elementskit-megamenu-panel.elementskit-dropdown-open {
+   2489      display: block;
+   2490    }
+   2491:   .ekit_menu_responsive_tablet
+   2492      .elementskit-navbar-nav-default
+   2493:     .elementskit-megamenu-panel.elementskit-dropdown-open {
+   2494      display: block;
+   2495    }
+   2496:   .ekit_menu_responsive_tablet
+   2497      .elementskit-navbar-nav-default
+
+   2500    }
+   2501:   .ekit_menu_responsive_tablet
+   2502      .elementskit-navbar-nav-default
+   2503      .elementskit-dropdown
+   2504:     ~ .elementskit-megamenu-panel {
+   2505      display: none;
+   2506    }
+   2507:   .ekit_menu_responsive_tablet
+   2508      .elementskit-navbar-nav-default
+
+   2516    }
+   2517:   .ekit_menu_responsive_tablet
+   2518      .elementskit-navbar-nav-default
+
+   2521    }
+   2522:   .ekit_menu_responsive_tablet
+   2523      .elementskit-navbar-nav-default
+
+   2529  }
+   2530: .elementskit-menu-close,
+   2531: .elementskit-menu-hamburger {
+   2532    display: none;
+   2533  }
+   2534: .elementskit-menu-hamburger {
+   2535    color: #000;
+
+   2537  @media (max-width: 1024px) {
+   2538:   .elementskit-menu-overlay {
+   2539      display: block;
+
+   2553    }
+   2554:   .elementor-element-edit-mode .elementskit-menu-overlay {
+   2555      left: 100%;
+   2556    }
+   2557:   .elementskit-menu-hamburger {
+   2558      border: 1px solid rgba(0, 0, 0, 0.2);
+
+   2560    }
+   2561:   .elementskit-menu-hamburger .elementskit-menu-hamburger-icon {
+   2562      background-color: rgba(0, 0, 0, 0.5);
+   2563    }
+   2564:   .elementskit-menu-close,
+   2565:   .elementskit-menu-hamburger {
+   2566      padding: 8px;
+
+   2575    }
+   2576:   .elementskit-menu-close .elementskit-menu-hamburger-icon,
+   2577:   .elementskit-menu-hamburger .elementskit-menu-hamburger-icon {
+   2578      height: 1px;
+
+   2582    }
+   2583:   .elementskit-menu-close .elementskit-menu-hamburger-icon:last-child,
+   2584:   .elementskit-menu-hamburger .elementskit-menu-hamburger-icon:last-child {
+   2585      margin-bottom: 0;
+   2586    }
+   2587:   .elementskit-navbar-nav .ekit-menu-badge {
+   2588      font-size: 7px;
+
+   2596    > a
+   2597:   .ekit-menu-badge
+   2598:   .ekit-menu-badge-arrow {
+   2599    display: none;
+
+   2601  .dropdown-item,
+   2602: .ekit-menu-nav-link {
+   2603    position: relative;
+
+   2605  .dropdown-item > i,
+   2606: .ekit-menu-nav-link > i {
+   2607    padding-right: 5px;
+
+   2609  .dropdown-item .icon-none,
+   2610: .ekit-menu-nav-link .icon-none {
+   2611    display: none !important;
+
+   2640  @media (max-width: 1024px) {
+   2641:   .elementor-widget-ekit-nav-menu {
+   2642      -webkit-animation: none !important;
+
+   2644    }
+   2645:   .ekit-wid-con:not(.ekit_menu_responsive_mobile) .elementskit-navbar-nav {
+   2646      display: block;
+
+   2649  @media (max-width: 1024px) {
+   2650:   .elementskit-menu-close,
+   2651:   .elementskit-menu-hamburger {
+   2652      display: block;
+   2653    }
+   2654:   .elementskit-menu-container {
+   2655      max-width: 350px;
+   2656    }
+   2657:   .elementskit-menu-overlay.active {
+   2658      left: 0;
+
+   2661    }
+   2662:   .elementskit-menu-offcanvas-elements {
+   2663      height: 100% !important;
+
+   2665    }
+   2666:   .elementskit-menu-offcanvas-elements.active {
+   2667      left: 0;
+
+   2676    }
+   2677:   .ekit_menu_responsive_tablet .ekit-menu-badge {
+   2678      position: static;
+
+   2685    }
+   2686:   .ekit_menu_responsive_tablet .ekit-menu-badge > .ekit-menu-badge-arrow {
+   2687      display: none;
+   2688    }
+   2689:   .ekit_menu_responsive_tablet
+   2690      .elementskit-navbar-nav-default
+
+   2692      > a
+   2693:     .elementskit-submenu-indicator {
+   2694      margin-left: auto;
+   2695    }
+   2696:   .ekit_menu_responsive_tablet .elementskit-submenu-indicator {
+   2697      -webkit-box-ordinal-group: 3;
+
+   2704  @media screen and (min-width: 766px) and (max-width: 1024px) {
+   2705:   .ekit_menu_responsive_mobile .elementskit-menu-offcanvas-elements {
+   2706      position: static;
+   2707    }
+   2708:   .ekit_menu_responsive_mobile .elementskit-nav-identity-panel {
+   2709      display: none;
+   2710    }
+   2711:   .ekit_menu_responsive_mobile .elementskit-menu-hamburger {
+   2712      display: none;
+   2713    }
+   2714:   .ekit_menu_responsive_mobile .elementskit-menu-container {
+   2715      overflow-y: unset;
+
+   2717    }
+   2718:   .ekit_menu_responsive_mobile .elementskit-dropdown {
+   2719      -webkit-box-shadow: 0 10px 30px 0 rgba(45, 45, 45, 0.2);
+
+   2729    }
+   2730:   .ekit_menu_responsive_mobile .elementskit-megamenu-panel {
+   2731      -webkit-transform: translateY(-10px);
+
+   2744    }
+   2745:   .ekit_menu_responsive_mobile
+   2746:     .elementskit-dropdown-menu-full_width
+   2747:     .elementskit-megamenu-panel {
+   2748      width: 100vw;
+   2749    }
+   2750:   .ekit_menu_responsive_mobile
+   2751      .elementskit-navbar-nav
+   2752:     > li.elementskit-megamenu-has.relative_position {
+   2753      position: relative;
+   2754    }
+   2755:   .ekit_menu_responsive_mobile
+   2756:     .elementskit-megamenu-panel
+   2757      .elementor-section-wrap
+
+   2763  @media (max-width: 767px) {
+   2764:   .ekit_menu_responsive_mobile .elementskit-navbar-nav {
+   2765      display: block;
+   2766    }
+   2767:   .ekit_menu_responsive_mobile .elementskit-dropdown {
+   2768      position: relative;
+   2769    }
+   2770:   .ekit_menu_responsive_mobile .ekit-menu-badge {
+   2771      position: static;
+
+   2778    }
+   2779:   .ekit_menu_responsive_mobile .ekit-menu-badge > .ekit-menu-badge-arrow {
+   2780      display: none;
+   2781    }
+   2782:   .ekit_menu_responsive_mobile
+   2783      .elementskit-navbar-nav-default
+
+   2785      > a
+   2786:     .elementskit-submenu-indicator {
+   2787      margin-left: auto;
+   2788    }
+   2789:   .ekit_menu_responsive_mobile .elementskit-submenu-indicator {
+   2790      -webkit-box-ordinal-group: 3;
+
+   2795    }
+   2796:   .ekit_menu_responsive_mobile
+   2797      .elementskit-navbar-nav-default
+   2798:     .elementskit-megamenu-has.elementskit-mobile-builder-content
+   2799      .elementskit-dropdown,
+   2800:   .ekit_menu_responsive_tablet
+   2801      .elementskit-navbar-nav-default
+   2802:     .elementskit-megamenu-has.elementskit-mobile-builder-content
+   2803      .elementskit-dropdown {
+
+   2805    }
+   2806:   .ekit_menu_responsive_mobile
+   2807      .elementskit-navbar-nav-default
+   2808:     .elementskit-megamenu-has.elementskit-mobile-builder-content
+   2809:     .elementskit-megamenu-panel.elementskit-dropdown-open,
+   2810:   .ekit_menu_responsive_tablet
+   2811      .elementskit-navbar-nav-default
+   2812:     .elementskit-megamenu-has.elementskit-mobile-builder-content
+   2813:     .elementskit-megamenu-panel.elementskit-dropdown-open {
+   2814      display: block;
+   2815    }
+   2816:   .ekit_menu_responsive_mobile
+   2817      .elementskit-navbar-nav-default
+   2818:     .elementskit-megamenu-panel.elementskit-dropdown-open,
+   2819:   .ekit_menu_responsive_tablet
+   2820      .elementskit-navbar-nav-default
+   2821:     .elementskit-megamenu-panel.elementskit-dropdown-open {
+   2822      display: block;
+   2823    }
+   2824:   .ekit_menu_responsive_mobile
+   2825      .elementskit-navbar-nav-default
+   2826      .elementskit-dropdown,
+   2827:   .ekit_menu_responsive_tablet
+   2828      .elementskit-navbar-nav-default
+
+   2831    }
+   2832:   .ekit_menu_responsive_mobile
+   2833      .elementskit-navbar-nav-default
+   2834      .elementskit-dropdown
+   2835:     ~ .elementskit-megamenu-panel,
+   2836:   .ekit_menu_responsive_tablet
+   2837      .elementskit-navbar-nav-default
+   2838      .elementskit-dropdown
+   2839:     ~ .elementskit-megamenu-panel {
+   2840      display: none;
+   2841    }
+   2842:   .ekit_menu_responsive_mobile
+   2843      .elementskit-navbar-nav-default
+   2844      .elementskit-dropdown.elementskit-dropdown-open,
+   2845:   .ekit_menu_responsive_tablet
+   2846      .elementskit-navbar-nav-default
+
+   2854    }
+   2855:   .ekit_menu_responsive_mobile
+   2856      .elementskit-navbar-nav-default
+   2857      .elementskit-navbar-nav,
+   2858:   .ekit_menu_responsive_tablet
+   2859      .elementskit-navbar-nav-default
+
+   2862    }
+   2863:   .ekit_menu_responsive_mobile
+   2864      .elementskit-navbar-nav-default
+
+   2867      > .elementskit-dropdown,
+   2868:   .ekit_menu_responsive_tablet
+   2869      .elementskit-navbar-nav-default
+
+   2875  }
+   2876: .elementskit-navbar-nav .elementskit-submenu-panel > li:hover > a > i,
+   2877: .elementskit-navbar-nav .elementskit-submenu-panel > li > a:hover > i {
+   2878    color: inherit !important;
+
+   2880  @media (max-width: 767px) {
+   2881:   .ekit-sticky .elementskit-menu-container.elementskit-menu-offcanvas-elements {
+   2882      height: 120vh !important;
+   2883    }
+   2884:   .ekit-sticky .elementskit-menu-overlay {
+   2885      display: none;
+   2886    }
+   2887:   .ekit-sticky .elementskit-menu-offcanvas-elements::before {
+   2888      position: fixed;
+
+   2897    }
+   2898:   .ekit-sticky .elementskit-menu-offcanvas-elements::after {
+   2899      position: absolute;
+
+   2906    }
+   2907:   .ekit-sticky .elementskit-menu-offcanvas-elements.active::before {
+   2908      left: 0;
+
+   2915  @media (min-width: 1025px) {
+   2916:   .elementor-widget-ekit-nav-menu
+   2917:     .elementskit-dropdown-menu-full_width
+   2918:     .elementskit-megamenu-panel {
+   2919      width: 100vw;
+   2920    }
+   2921:   .elementor-widget-ekit-nav-menu
+   2922      .elementskit-navbar-nav
+   2923:     > li.elementskit-megamenu-has.relative_position {
+   2924      position: relative;
+   2925    }
+   2926:   .elementskit-megamenu-panel
+   2927      .elementor-section-wrap
+
+   2932  }
+   2933: .elementskit-dropdown-has > .sub-menu-toggle {
+   2934    display: none;
+   2935  }
+   2936: .ekit-nav-menu--empty-fallback {
+   2937    font-size: 0;
+
+   2939  @media (min-width: 766px) {
+   2940:   .ekit_menu_responsive_mobile .ekit-nav-menu--empty-fallback,
+   2941:   .ekit_menu_responsive_mobile .ekit-nav-menu--overlay {
+   2942      display: none;
+
+   2945  @media (min-width: 1025px) {
+   2946:   .ekit_menu_responsive_tablet .ekit-nav-menu--empty-fallback,
+   2947:   .ekit_menu_responsive_tablet .ekit-nav-menu--overlay {
+   2948      display: none;
+
+   2950  }
+   2951: .ekit-vertical-menu-tigger {
+   2952    display: block;
+
+   2964  }
+   2965: .ekit-vertical-menu-tigger img:not([draggable]).vertical-menu-icon {
+   2966    max-width: 14px;
+   2967  }
+   2968: .ekit-vertical-menu-tigger .vertical-menu-icon {
+   2969    -webkit-transition: all 0.4s ease-in;
+
+   2971  }
+   2972: .ekit-vertical-menu-tigger:hover {
+   2973    color: #fff;
+   2974  }
+   2975: .vertical-menu-right-icon {
+   2976    margin-right: 7px;
+   2977  }
+   2978: .vertical-menu-left-icon {
+   2979    float: right;
+
+   2991  .ekit-vertical-navbar-nav .elementskit-dropdown,
+   2992: .ekit-vertical-navbar-nav .elementskit-megamenu-panel {
+   2993    margin-left: 0;
+
+   2996  }
+   2997: .ekit-vertical-navbar-nav .elementskit-megamenu-has .elementskit-dropdown {
+   2998    display: none;
+
+   3018  }
+   3019: .ekit-vertical-navbar-nav > li > a .ekit-menu-icon {
+   3020    margin-right: 7px;
+
+   3022  }
+   3023: .ekit-vertical-navbar-nav > li > a .ekit-menu-badge-arrow {
+   3024    display: none;
+   3025  }
+   3026: .ekit-vertical-navbar-nav > li > a .ekit-menu-badge {
+   3027    position: static;
+
+   3055  @media (min-width: 1025px) {
+   3056:   .ekit-vertical-navbar-nav li.elementskit-megamenu-has.relative_position {
+   3057      position: relative;
+   3058    }
+   3059:   .ekit-vertical-navbar-nav li.elementskit-megamenu-has.top_position {
+   3060      position: static;
+
+   3062    .ekit-vertical-navbar-nav
+   3063:     li.elementskit-megamenu-has:hover
+   3064:     > .elementskit-megamenu-panel {
+   3065      -webkit-transform: translateY(0);
+
+   3072  @media (max-width: 1024px) {
+   3073:   .ekit-vertical-navbar-nav .elementskit-megamenu-panel {
+   3074      display: none;
+
+   3078      .elementskit-mobile-builder-content
+   3079:     .elementskit-megamenu-panel.elementskit-dropdown-open {
+   3080      display: block;
+
+   3087    .ekit-vertical-navbar-nav
+   3088:     .elementskit-megamenu-has.elementskit-mobile-builder-content
+   3089      .elementskit-dropdown {
+
+   3151  @media (min-width: 1025px) {
+   3152:   .ekit-vertical-navbar-nav .elementskit-megamenu-panel {
+   3153      position: absolute;
+
+   3166  }
+   3167: .ekit-vertical-navbar-nav .elementskit-submenu-indicator {
+   3168    display: block;
+
+   3178  }
+   3179: .ekit-vertical-navbar-nav .elementskit-submenu-indicator::before {
+   3180    content: "\f105";
+   3181  }
+   3182: .ekit-vertical-navbar-nav .ekit-submenu-indicator-icon {
+   3183    display: block;
+
+   3196  }
+   3197: .badge-position-right .ekit-vertical-navbar-nav .ekit-menu-badge {
+   3198    margin-left: auto;
+   3199  }
+   3200: .badge-position-right .ekit-menu-badge ~ .elementskit-submenu-indicator {
+   3201    margin-left: 12px;
+   3202  }
+   3203: .badge-position-right .ekit-menu-badge ~ .ekit-submenu-indicator-icon {
+   3204    margin-left: 12px;
+   3205  }
+   3206: .ekit-vertical-main-menu-on-click {
+   3207    position: relative;
+   3208  }
+   3209: .ekit-vertical-main-menu-on-click .ekit-vertical-menu-container {
+   3210    position: absolute;
+
+   3215  }
+   3216: .ekit-vertical-main-menu-on-click.vertical-menu-active
+   3217:   .ekit-vertical-menu-container {
+   3218    opacity: 1;
+
+   3220  }
+   3221: .ekit-vertical-main-menu-on-click.vertical-menu-active
+   3222:   .ekit-vertical-menu-tigger
+   3223:   .vertical-menu-left-icon {
+   3224    -webkit-transform: rotateX(180deg);
+
+   3226  }
+   3227: .ekit-vertical-main-menu-on-click .ekit-vertical-menu-container {
+   3228    opacity: 0;
+
+   3230  }
+   3231: .ekit-vertical-menu-container {
+   3232    -webkit-transition: all 0.3s ease-in-out;
+
+   5270  }
+   5271: .ekit-wid-con .ekit_menu_label {
+   5272    border-radius: 3px;
+
+   5279  }
+   5280: .ekit-wid-con .ekit_menu_subtitle {
+   5281    font-size: 11px;
+
+   6150  }
+   6151: .ekit-wid-con .elementskit-navbar-nav-default.elementskit-menu-container {
+   6152    z-index: 1000;
+
+   6303  @media (min-width: 1025px) {
+   6304:   .ekit-wid-con .default_menu_position .elementor-column,
+   6305:   .ekit-wid-con .default_menu_position .elementor-widget,
+   6306:   .ekit-wid-con .default_menu_position .elementor-widget-wrap,
+   6307    .ekit-wid-con
+   6308:     .default_menu_position
+   6309:     .elementskit-navbar-nav-default.elementskit-menu-container {
+   6310      position: static;
+
+   6312    .ekit-wid-con
+   6313:     .default_menu_position
+   6314:     .elementskit-menu-po-right
+   6315:     .elementskit-megamenu-has.top_position.elementskit-dropdown-menu-custom_width
+   6316:     .elementskit-megamenu-panel,
+   6317    .ekit-wid-con
+   6318:     .default_menu_position
+   6319:     .elementskit-menu-po-right
+   6320:     .elementskit-megamenu-has.top_position.elementskit-dropdown-menu-default_width
+   6321:     .elementskit-megamenu-panel,
+   6322    .ekit-wid-con
+   6323      .elementskit-navbar-nav-default
+   6324:     .elementskit-menu-po-right
+   6325:     .relative_position.elementskit-megamenu-has
+   6326:     .elementskit-megamenu-panel {
+   6327      right: 0;
+
+   6331      .elementskit-navbar-nav-default
+   6332:     .elementskit-megamenu-has
+   6333:     .elementskit-megamenu-panel {
+   6334      -webkit-transition: transform 0.4s ease;
+
+   6340    .ekit-wid-con
+   6341:     .elementskit-menu-po-center
+   6342:     .elementskit-megamenu-has.top_position.elementskit-dropdown-menu-custom_width
+   6343:     .elementskit-megamenu-panel,
+   6344    .ekit-wid-con
+   6345:     .elementskit-menu-po-center
+   6346:     .elementskit-megamenu-has.top_position.elementskit-dropdown-menu-default_width
+   6347:     .elementskit-megamenu-panel {
+   6348      -webkit-transform: translateY(-10px) translateX(-50%);
+
+   6352    .ekit-wid-con
+   6353:     .default_menu_position
+   6354:     .elementskit-menu-po-center
+   6355:     .elementskit-megamenu-has.top_position.elementskit-dropdown-menu-custom_width:hover
+   6356:     > .elementskit-megamenu-panel,
+   6357    .ekit-wid-con
+   6358:     .default_menu_position
+   6359:     .elementskit-menu-po-center
+   6360:     .elementskit-megamenu-has.top_position.elementskit-dropdown-menu-default_width:hover
+   6361:     > .elementskit-megamenu-panel {
+   6362      -webkit-transform: translateY(0) translateX(-50%);
+
+   6366    .ekit-wid-con
+   6367:     body.is-vertical-menu-active
+   6368      .ekit-wid-con
+   6369:     .elementskit-navbar-nav-default.elementskit-menu-container {
+   6370      z-index: 9;
+
+   6372    .ekit-wid-con
+   6373:     body.is-vertical-menu-active
+   6374:     .vertical-menu-active
+   6375:     .xs-vertical-menu-backdrop {
+   6376      z-index: 150;
+   6377    }
+   6378:   .ekit-wid-con body.is-vertical-menu-active .ekit-vertical-menu-tigger {
+   6379      z-index: 160;
+
+   6382  @media (max-width: 1024px) {
+   6383:   .ekit-wid-con .ekit-vertical-navbar-nav .elementskit-submenu-indicator {
+   6384      padding: 3px 10px;
+
+   6796    overflow: hidden;
+   6797:   -webkit-animation: menu-animation 0.8s ease-out forwards;
+   6798:   animation: menu-animation 0.8s ease-out forwards;
+   6799  }
+
+   6869  }
+   6870: @-webkit-keyframes menu-animation {
+   6871    0% {
+
+   6910  }
+   6911: @keyframes menu-animation {
+   6912    0% {
+
+  22373    overflow: hidden;
+  22374:   -webkit-animation: menu-animation 0.8s ease-out forwards;
+  22375:   animation: menu-animation 0.8s ease-out forwards;
+  22376  }
+
+kenlightmercy • kenlightmercy.com/data/cache/min/1/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js:
+   40      }),
+   41:     (ElementsKit_Helper.megaMenuAjaxLoad = function (t) {
+   42        let n = t.find(
+   43:           ".elementskit-submenu-indicator, .ekit-submenu-indicator-icon"
+   44          ),
+   45:         i = t.find(".megamenu-ajax-load"),
+   46          s = t.closest(".ekit-wid-con").data("responsive-breakpoint"),
+   47          o = n.attr("class"),
+   48:         a = "elementskit-submenu-indicator eicon-loading eicon-animation-spin";
+   49        i.length &&
+
+   51          e.ajax({
+   52:           url: window.elementskit.resturl + "megamenu/megamenu_content",
+   53            type: "get",
+
+  122          "elementskit-header-offcanvas.default": n.Header_Off_Canvas,
+  123:         "ekit-nav-menu.default": n.Nav_Menu,
+  124          "elementskit-team.default": n.Team,
+
+  178      },
+  179:     Nav_Menu: function (t) {
+  180:       if (t.find(".elementskit-megamenu-has").length > 0) {
+  181          let n = t.find(".ekit-wid-con").data("responsive-breakpoint"),
+  182:           i = t.find(".elementskit-megamenu-has"),
+  183:           s = t.find(".elementskit-menu-container").outerHeight();
+  184          function o(t, n, i) {
+
+  189            .on("resize", function () {
+  190:             t.find(".elementskit-megamenu-panel").css({ top: s });
+  191            })
+
+  193            i.on("mouseenter", function () {
+  194:             let t = e(this).data("vertical-menu"),
+  195:               i = e(this).children(".elementskit-megamenu-panel");
+  196              if (
+  197:               e(this).hasClass("elementskit-dropdown-menu-full_width") &&
+  198                e(this).hasClass("top_position")
+
+  204                n
+  205:                 .find(".elementskit-megamenu-panel")
+  206                  .css("max-width", e(window).width()),
+
+  208                    .on("resize", function () {
+  209:                     n.find(".elementskit-megamenu-panel").css({
+  210                        left: t + "px",
+
+  214              }
+  215:             !e(this).hasClass("elementskit-dropdown-menu-full_width") &&
+  216                e(this).hasClass("top_position") &&
+
+  218                  mouseenter: function () {
+  219:                   0 === e(".default_menu_position").length &&
+  220                      e(this)
+  221                        .parents(".elementor-section-wrap")
+  222:                       .addClass("default_menu_position");
+  223                  },
+  224                  mouseleave: function () {
+  225:                   0 !== e(".default_menu_position").length &&
+  226                      e(this)
+  227                        .parents(".elementor-section-wrap")
+  228:                       .removeClass("default_menu_position");
+  229                  },
+
+  244              s = e(this).parents(".elementskit-dropdown-has"),
+  245:             o = i.find(">.elementskit-dropdown, >.elementskit-megamenu-panel");
+  246            t
+
+  248              .not(s)
+  249:             .find(">.elementskit-dropdown, >.elementskit-megamenu-panel")
+  250              .removeClass("ekit-dropdown-open-onclick"),
+
+  274        }
+  275:       t.find(".megamenu-ajax-load").length > 0 &&
+  276          (t
+  277            .find(".ekit-nav-dropdown-hover")
+  278:           .on("mouseenter", ".elementskit-megamenu-has", function (t) {
+  279:             ElementsKit_Helper.megaMenuAjaxLoad(e(this));
+  280            }),
+
+  282            .find(".ekit-nav-dropdown-click")
+  283:           .on("click", ".elementskit-megamenu-has", function (t) {
+  284:             ElementsKit_Helper.megaMenuAjaxLoad(e(this));
+  285            }));
+
+kenlightmercy • kenlightmercy.com/data/cache/min/1/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js:
+  2019                          var o = t(i.parentNode).find(
+  2020:                           "> .dropdown-menu .active"
+  2021                          )[0];
+
+  2032                          e.parentNode &&
+  2033:                           t(e.parentNode).hasClass("dropdown-menu"))
+  2034                        ) {
+
+  7117              }
+  7118:             (e = t(".elementskit-menu-container")),
+  7119                t(e).each(function () {
+
+  7121                  "yes" != e.attr("ekit-dom-added") &&
+  7122:                   (0 === e.parents(".elementor-widget-ekit-nav-menu").length &&
+  7123                      e
+  7124                        .parents(".ekit-wid-con")
+  7125:                       .addClass("ekit_menu_responsive_tablet"),
+  7126                    e.attr("ekit-dom-added", "yes"));
+
+  7135                  if (
+  7136:                   (!i.hasClass("submenu-click-on-icon") ||
+  7137:                     t(e.target).hasClass("elementskit-submenu-indicator")) &&
+  7138                    (!(
+  7139                      t(document).width() > Number(n) &&
+  7140:                     i.hasClass("submenu-click-on-")
+  7141                    ) ||
+  7142:                     t(e.target).hasClass("elementskit-submenu-indicator"))
+  7143                  ) {
+
+  7147                      .find(
+  7148:                       ">.elementskit-dropdown, >.elementskit-megamenu-panel"
+  7149                      );
+
+  7157                }),
+  7158:               i("click", ".elementskit-menu-toggler", function (e) {
+  7159                  e.preventDefault();
+  7160:                 var i = t(this).parents(".elementskit-menu-container").parent();
+  7161                  i.length < 1 && (i = t(this).parent());
+  7162:                 var n = i.find(".elementskit-menu-offcanvas-elements");
+  7163                  n.hasClass("active")
+
+  7173                      r = i
+  7174:                       .closest(".elementskit-menu-container")
+  7175:                       .hasClass("ekit-nav-menu-one-page-yes"),
+  7176                      a = n.pathname === window.location.pathname;
+  7177:                   "elementskit-submenu-indicator" !== e.target.className &&
+  7178                      s &&
+
+  7183                        .closest(".ekit-wid-con")
+  7184:                       .find(".elementskit-menu-close")
+  7185                        .trigger("click");
+
+kenlightmercy • kenlightmercy.com/data/cache/min/1/wp-content/themes/infine/style.css:
+   395  }
+   396: .main-menu {
+   397    font-family: var(--e-global-typography-primary-font-family);
+
+   399  }
+   400: .main-menu ul {
+   401    align-items: center;
+
+   403  }
+   404: .main-menu ul li {
+   405    position: relative;
+   406  }
+   407: .main-menu ul li:last-child {
+   408    margin-right: 0;
+   409  }
+   410: .main-menu ul li.menu-item-has-children > a:after {
+   411    content: "\f107";
+
+   416  }
+   417: .main-menu ul ul li.menu-item-has-children > a {
+   418    position: relative;
+   419  }
+   420: .main-menu ul ul li.menu-item-has-children > a:after {
+   421    width: 18px;
+
+   427  }
+   428: .main-menu ul li a {
+   429    font-size: 16px;
+
+   433  }
+   434: .main-menu ul li.highlighted-menu a {
+   435    display: block;
+
+   447  }
+   448: .main-menu ul li.highlighted-menu a:after {
+   449    background-color: var(gold);
+
+   463  }
+   464: .main-menu ul li.highlighted-menu a:hover::after {
+   465    transform: translate(0, 0);
+   466  }
+   467: .main-menu ul li.highlighted-menu a:hover {
+   468    color:gold;
+   469  }
+   470: .main-menu ul li a:hover,
+   471: .main-menu ul li a:focus {
+   472    color:gold;
+   473  }
+   474: .main-menu ul ul {
+   475    visibility: hidden;
+
+   493  }
+   494: .main-menu ul ul ul {
+   495    left: 100%;
+
+   497  }
+   498: .main-menu ul ul ul ul ul {
+   499    display: none !important;
+
+   502  }
+   503: .main-menu ul ul li {
+   504    margin: 0;
+
+   506  }
+   507: .main-menu ul ul li a,
+   508: .main-menu ul ul li a:focus {
+   509    color: var(--e-global-color-white);
+
+   512  }
+   513: .main-menu ul li:hover > ul {
+   514    visibility: visible;
+
+   517  }
+   518: .main-menu ul ul li a:hover {
+   519    color: var(gold);
+   520  }
+   521: .responsive-menu,
+   522  .navbar-toggle {
+
+   524  }
+   525: #menu-all-pages-flat > li a {
+   526    padding-top: 0 !important;
+
+   532  }
+   533: .slicknav_menu,
+   534: .slicknav_menu * {
+   535    box-sizing: border-box;
+
+   546  }
+   547: .slicknav_menu .slicknav_menutxt {
+   548    display: block;
+
+   554  }
+   555: .slicknav_menu .slicknav_icon {
+   556    float: left;
+
+   560  }
+   561: .slicknav_menu .slicknav_icon:before {
+   562    background: 0 0;
+
+   568  }
+   569: .slicknav_menu .slicknav_no-text {
+   570    margin: 0;
+   571  }
+   572: .slicknav_menu .slicknav_icon-bar {
+   573    display: block;
+
+   582  }
+   583: .slicknav_menu:after,
+   584: .slicknav_menu:before {
+   585    content: " ";
+
+   587  }
+   588: .slicknav_menu:after {
+   589    clear: both;
+
+   608  }
+   609: .slicknav_menu {
+   610    font-size: 16px;
+
+   619  }
+   620: .slicknav_menu .slicknav_icon-bar {
+   621    background-color: #fff;
+
+   678  }
+   679: .responsive-menu {
+   680    top: 100%;
+
+   705  }
+   706: .slicknav_menu {
+   707    padding: 0;
+
+   969  }
+   970: .footer-menu {
+   971    text-align: right;
+
+   973  }
+   974: .footer-menu ul {
+   975    list-style: none;
+
+   978  }
+   979: .footer-menu ul li {
+   980    display: inline-block;
+
+   982  }
+   983: .footer-menu ul li a {
+   984    color: var(--e-global-color-white);
+
+   986  }
+   987: .footer-menu ul li a:hover {
+   988    color:gold;
+
+  1390    }
+  1391:   .main-menu ul li a {
+  1392      padding: 8px 10px !important;
+
+  1408    }
+  1409:   .responsive-menu,
+  1410    .navbar-toggle {
+
+  1412    }
+  1413:   .main-menu ul li {
+  1414      margin: 0 10px;
+  1415    }
+  1416:   header.main-header .header-sticky.active .slicknav_menu {
+  1417      border-radius: 0;
+
+  1510    }
+  1511:   .footer-menu {
+  1512      text-align: center;
+  1513    }
+  1514:   .footer-menu ul li {
+  1515      margin: 0 10px;
+
+  2697  .elementskit-navbar-nav
+  2698:   > li.current-menu-item
+  2699    > a.active
+  2700:   .elementskit-submenu-indicator {
+  2701    color:gold !important;
+
+  2713  }
+  2714: .main-header .ekit-menu-nav-link > i {
+  2715    padding-right: 0;
+
+  2719  }
+  2720: .elementskit-dropdown i.elementskit-submenu-indicator {
+  2721    transform: rotate(-90deg);
+
+  2723  }
+  2724: .mobile-menu {
+  2725    display: none;
+  2726  }
+  2727: .header-version-2 .mobile-menu,
+  2728: .header-version-3 .mobile-menu,
+  2729: .header-version-4 .mobile-menu {
+  2730    display: block;
+
+  2738  }
+  2739: .header-main-menu .ekit_menu_responsive_tablet .elementskit-menu-hamburger {
+  2740    background-image: linear-gradient(
+
+  2747  }
+  2748: .header-main-menu
+  2749:   .ekit_menu_responsive_tablet
+  2750:   .elementskit-menu-hamburger:hover {
+  2751    background-position: right center;
+  2752  }
+  2753: .header-main-menu .elementskit-navbar-nav ul li a.dropdown-item i {
+  2754    margin: 6px 0 0 0 !important;
+
+  2764  @media only screen and (max-width: 1560px) {
+  2765:   .header-menu {
+  2766      width: calc(100% - 40px);
+
+  2769    }
+  2770:   .header-menu .e-con-inner {
+  2771      padding: 0;
+
+  2777    }
+  2778:   .elementskit-dropdown i.elementskit-submenu-indicator {
+  2779      transform: rotate(0deg);
+
+  2785    }
+  2786:   .elementskit-navbar-nav-default.elementskit-menu-offcanvas-elements {
+  2787      transition: left 0.3s ease-in-out !important;
+  2788    }
+  2789:   .elementskit-menu-overlay {
+  2790      display: none !important;
+  2791    }
+  2792:   .elementskit-menu-close .elementskit-menu-hamburger-icon,
+  2793:   .elementskit-menu-hamburger .elementskit-menu-hamburger-icon {
+  2794      height: 2px;
+
+  2799    }
+  2800:   .ekit_menu_responsive_tablet .elementskit-submenu-indicator {
+  2801      border: none !important;
+  2802    }
+  2803:   .elementskit-navbar-nav .elementskit-submenu-panel {
+  2804      background: none !important;
+
+  2807    .elementskit-navbar-nav
+  2808:     > li.current-menu-item
+  2809      > a.active
+  2810:     .elementskit-submenu-indicator {
+  2811      color: var(gold) !important;
+  2812    }
+  2813:   .mobile-menu {
+  2814      display: block;
+  2815    }
+  2816:   .header-menu {
+  2817      width: 100%;
+
+  2820    }
+  2821:   .header-main-menu .elementskit-menu-container {
+  2822      background: linear-gradient(
+
+  2827    }
+  2828:   .header-main-menu
+  2829:     .ekit_menu_responsive_tablet
+  2830:     .elementskit-menu-hamburger
+  2831      .ekit-wid-con
+
+  2855  }
+  2856: .footer-links .ekit-vertical-menu-container ul {
+  2857    display: flex;
+
+  2876    }
+  2877:   .footer-links .ekit-vertical-menu-container ul {
+  2878      justify-content: center;
+
+kenlightmercy • kenlightmercy.com/data/cache/min/1/wp-content/themes/infine/assets/js/function.js:
+    5    var defaults = {
+    6:       label: "MENU",
+    7        duplicate: !0,
+
+   30      },
+   31:     mobileMenu = "slicknav",
+   32      prefix = "slicknav",
+
+   49      this._defaults = defaults;
+   50:     this._name = mobileMenu;
+   51      this.init();
+
+   54      var $this = this,
+   55:       menu = $(this.element),
+   56        settings = this.settings,
+   57        iconClass,
+   58:       menuBar;
+   59      if (settings.duplicate) {
+   60:       $this.mobileNav = menu.clone();
+   61      } else {
+   62:       $this.mobileNav = menu;
+   63      }
+
+   89      $this.mobileNav.attr("class", prefix + "_nav");
+   90:     menuBar = $('<div class="' + prefix + '_menu"></div>');
+   91      if (settings.brand !== "") {
+
+   94        );
+   95:       $(menuBar).append(brand);
+   96      }
+
+  105            '_collapsed">',
+  106:         '<span class="' + prefix + '_menutxt">' + settings.label + "</span>",
+  107          '<span class="' + iconClass + '">',
+
+  116      if (settings.appendTo !== "") {
+  117:       $(settings.appendTo).append(menuBar);
+  118      } else {
+  119:       $(settings.prependTo).prepend(menuBar);
+  120      }
+  121:     menuBar.append($this.mobileNav);
+  122      var items = $this.mobileNav.find("li");
+
+  125          data = {};
+  126:       data.children = item.children("ul").attr("role", "menu");
+  127:       item.data("menu", data);
+  128        if (data.children.length > 0) {
+
+  144              settings.parentTag +
+  145:             ' role="menuitem" aria-haspopup="true" tabindex="-1" class="' +
+  146              prefix +
+
+  188          .children("a")
+  189:         .attr("role", "menuitem")
+  190          .on("click", function (event) {
+
+  215      $(items).each(function () {
+  216:       var data = $(this).data("menu");
+  217        if (!settings.showChildren) {
+
+  221      $this._visibilityToggle($this.mobileNav, null, !1, "init", !0);
+  222:     $this.mobileNav.attr("role", "menu");
+  223      $(document).on("mousedown", function () {
+
+  230        e.preventDefault();
+  231:       $this._menuToggle();
+  232      });
+
+  247            ) {
+  248:             $this._menuToggle();
+  249            }
+
+  251              .next()
+  252:             .find('[role="menuitem"]')
+  253              .first()
+
+  273            }
+  274:           $(e.target).next().find('[role="menuitem"]').first().trigger("focus");
+  275            break;
+
+  277      });
+  278:     $this.mobileNav.on("keydown", '[role="menuitem"]', function (e) {
+  279        var ev = e || event;
+
+  286              .children()
+  287:             .children('[role="menuitem"]:visible');
+  288            var idx = allItems.index(e.target);
+
+  301              .children()
+  302:             .children('[role="menuitem"]:visible');
+  303            var idx = allItems.index(e.target);
+
+  324            ) {
+  325:             $this._menuToggle();
+  326              $($this.btn).trigger("focus");
+
+  330            e.preventDefault();
+  331:           $this._menuToggle();
+  332            $($this.btn).trigger("focus");
+
+  341    };
+  342:   Plugin.prototype._menuToggle = function (el) {
+  343      var $this = this;
+
+  358      var settings = $this.settings;
+  359:     var data = el.data("menu");
+  360      if (!data) {
+
+  368        }
+  369:       el.data("menu", data);
+  370      }
+
+  488    Plugin.prototype._getActionItems = function (el) {
+  489:     var data = el.data("menu");
+  490      if (!data) {
+
+  494        data.links = anchors.add(items.find("." + prefix + "_item"));
+  495:       el.data("menu", data);
+  496      }
+
+  507      var $this = this;
+  508:     $this._menuToggle();
+  509    };
+
+  512      if ($this.btn.hasClass(prefix + "_collapsed")) {
+  513:       $this._menuToggle();
+  514      }
+
+  518      if ($this.btn.hasClass(prefix + "_open")) {
+  519:       $this._menuToggle();
+  520      }
+  521    };
+  522:   $.fn[mobileMenu] = function (options) {
+  523      var args = arguments;
+
+  525        return this.each(function () {
+  526:         if (!$.data(this, "plugin_" + mobileMenu)) {
+  527:           $.data(this, "plugin_" + mobileMenu, new Plugin(this, options));
+  528          }
+
+  536        this.each(function () {
+  537:         var instance = $.data(this, "plugin_" + mobileMenu);
+  538          if (
+
+  553    });
+  554:   if ($(".main-menu").length) {
+  555:     $(".main-menu").slicknav({ label: "", prependTo: ".responsive-menu" });
+  556    }
+
+kenlightmercy • kenlightmercy.com/data/cache/min/1/wp-content/themes/infine/assets/js/magiccursor.js:
+   94        $(
+   95:         ".cursor-alter, .tt-main-menu-list > li > a, .tt-main-menu-list > li > .tt-submenu-trigger > a"
+   96        )
+
+  118          });
+  119:       $(".tt-ol-submenu-caret-wrap .magnetic-wrap")
+  120          .on("mouseenter", function () {
+
+  434          .not(".cursor-alter")
+  435:         .not(".tt-main-menu-list > li > a")
+  436:         .not(".tt-main-menu-list > li > .tt-submenu-trigger > a")
+  437          .on("mouseenter", function () {
+
+kenlightmercy • kenlightmercy.com/data/plugins/elementor-pro/assets/css/widget-nav-menu.min.css:
+    2  @charset "UTF-8";
+    3: .site-main .menu-navigation-container {
+    4    overflow: visible;
+
+  434  }
+  435: .elementor-nav-menu--main .elementor-nav-menu a {
+  436    transition: 0.4s;
+  437  }
+  438: .elementor-nav-menu--main .elementor-nav-menu a,
+  439: .elementor-nav-menu--main .elementor-nav-menu a.highlighted,
+  440: .elementor-nav-menu--main .elementor-nav-menu a:focus,
+  441: .elementor-nav-menu--main .elementor-nav-menu a:hover {
+  442    padding: 13px 20px;
+  443  }
+  444: .elementor-nav-menu--main .elementor-nav-menu a.current {
+  445    background: #1f2124;
+
+  447  }
+  448: .elementor-nav-menu--main .elementor-nav-menu a.disabled {
+  449    background: #3f444b;
+
+  451  }
+  452: .elementor-nav-menu--main .elementor-nav-menu ul {
+  453    border-style: solid;
+
+  458  }
+  459: .elementor-nav-menu--main .elementor-nav-menu span.scroll-down,
+  460: .elementor-nav-menu--main .elementor-nav-menu span.scroll-up {
+  461    background: #fff;
+
+  467  }
+  468: .elementor-nav-menu--main .elementor-nav-menu span.scroll-down-arrow,
+  469: .elementor-nav-menu--main .elementor-nav-menu span.scroll-up-arrow {
+  470    border: 8px dashed transparent;
+
+  479  }
+  480: .elementor-nav-menu--main .elementor-nav-menu span.scroll-down-arrow {
+  481    border-color: #33373d transparent transparent;
+
+  484  }
+  485: .elementor-nav-menu--main
+  486:   .elementor-nav-menu--dropdown
+  487    .sub-arrow
+  488    .e-font-icon-svg,
+  489: .elementor-nav-menu--main .elementor-nav-menu--dropdown .sub-arrow i {
+  490    transform: rotate(calc(-90deg * var(--direction-multiplier, 1)));
+  491  }
+  492: .elementor-nav-menu--main
+  493:   .elementor-nav-menu--dropdown
+  494    .sub-arrow
+
+  499  }
+  500: .elementor-nav-menu--layout-horizontal {
+  501    display: flex;
+  502  }
+  503: .elementor-nav-menu--layout-horizontal .elementor-nav-menu {
+  504    display: flex;
+
+  506  }
+  507: .elementor-nav-menu--layout-horizontal .elementor-nav-menu a {
+  508    flex-grow: 1;
+
+  510  }
+  511: .elementor-nav-menu--layout-horizontal .elementor-nav-menu > li {
+  512    display: flex;
+  513  }
+  514: .elementor-nav-menu--layout-horizontal .elementor-nav-menu > li ul,
+  515: .elementor-nav-menu--layout-horizontal .elementor-nav-menu > li > .scroll-down {
+  516    top: 100% !important;
+  517  }
+  518: .elementor-nav-menu--layout-horizontal
+  519:   .elementor-nav-menu
+  520    > li:not(:first-child)
+  521    > a {
+  522:   margin-inline-start: var(--e-nav-menu-horizontal-menu-item-margin);
+  523  }
+  524: .elementor-nav-menu--layout-horizontal
+  525:   .elementor-nav-menu
+  526    > li:not(:first-child)
+  527    > .scroll-down,
+  528: .elementor-nav-menu--layout-horizontal
+  529:   .elementor-nav-menu
+  530    > li:not(:first-child)
+  531    > .scroll-up,
+  532: .elementor-nav-menu--layout-horizontal
+  533:   .elementor-nav-menu
+  534    > li:not(:first-child)
+  535    > ul {
+  536:   inset-inline-start: var(--e-nav-menu-horizontal-menu-item-margin) !important;
+  537  }
+  538: .elementor-nav-menu--layout-horizontal
+  539:   .elementor-nav-menu
+  540    > li:not(:last-child)
+  541    > a {
+  542:   margin-inline-end: var(--e-nav-menu-horizontal-menu-item-margin);
+  543  }
+  544: .elementor-nav-menu--layout-horizontal
+  545:   .elementor-nav-menu
+  546    > li:not(:last-child):after {
+  547    align-self: center;
+  548:   border-color: var(--e-nav-menu-divider-color, #000);
+  549:   border-left-style: var(--e-nav-menu-divider-style, solid);
+  550:   border-left-width: var(--e-nav-menu-divider-width, 2px);
+  551:   content: var(--e-nav-menu-divider-content, none);
+  552:   height: var(--e-nav-menu-divider-height, 35%);
+  553  }
+  554: .elementor-nav-menu__align-right .elementor-nav-menu {
+  555    justify-content: flex-end;
+
+  557  }
+  558: .elementor-nav-menu__align-right
+  559:   .elementor-nav-menu--layout-vertical
+  560    > ul
+
+  564  }
+  565: .elementor-nav-menu__align-left .elementor-nav-menu {
+  566    justify-content: flex-start;
+
+  568  }
+  569: .elementor-nav-menu__align-left
+  570:   .elementor-nav-menu--layout-vertical
+  571    > ul
+
+  575  }
+  576: .elementor-nav-menu__align-start .elementor-nav-menu {
+  577    justify-content: flex-start;
+
+  579  }
+  580: .elementor-nav-menu__align-start
+  581:   .elementor-nav-menu--layout-vertical
+  582    > ul
+
+  586  }
+  587: .elementor-nav-menu__align-end .elementor-nav-menu {
+  588    justify-content: flex-end;
+
+  590  }
+  591: .elementor-nav-menu__align-end
+  592:   .elementor-nav-menu--layout-vertical
+  593    > ul
+
+  597  }
+  598: .elementor-nav-menu__align-center .elementor-nav-menu {
+  599    justify-content: center;
+
+  602  }
+  603: .elementor-nav-menu__align-center
+  604:   .elementor-nav-menu--layout-vertical
+  605    > ul
+
+  609  }
+  610: .elementor-nav-menu__align-justify
+  611:   .elementor-nav-menu--layout-horizontal
+  612:   .elementor-nav-menu {
+  613    width: 100%;
+  614  }
+  615: .elementor-nav-menu__align-justify
+  616:   .elementor-nav-menu--layout-horizontal
+  617:   .elementor-nav-menu
+  618    > li {
+
+  620  }
+  621: .elementor-nav-menu__align-justify
+  622:   .elementor-nav-menu--layout-horizontal
+  623:   .elementor-nav-menu
+  624    > li
+
+  627  }
+  628: .elementor-widget-nav-menu:not(.elementor-nav-menu--toggle)
+  629:   .elementor-menu-toggle {
+  630    display: none;
+  631  }
+  632: .elementor-widget-nav-menu .elementor-widget-container,
+  633: .elementor-widget-nav-menu:not(:has(.elementor-widget-container)):not([class*="elementor-hidden-"]) {
+  634    display: flex;
+
+  636  }
+  637: .elementor-nav-menu {
+  638    position: relative;
+
+  640  }
+  641: .elementor-nav-menu:after {
+  642    clear: both;
+
+  649  }
+  650: .elementor-nav-menu,
+  651: .elementor-nav-menu li,
+  652: .elementor-nav-menu ul {
+  653    display: block;
+
+  659  }
+  660: .elementor-nav-menu ul {
+  661    display: none;
+  662  }
+  663: .elementor-nav-menu ul ul a,
+  664: .elementor-nav-menu ul ul a:active,
+  665: .elementor-nav-menu ul ul a:focus,
+  666: .elementor-nav-menu ul ul a:hover {
+  667    border-left: 16px solid transparent;
+  668  }
+  669: .elementor-nav-menu ul ul ul a,
+  670: .elementor-nav-menu ul ul ul a:active,
+  671: .elementor-nav-menu ul ul ul a:focus,
+  672: .elementor-nav-menu ul ul ul a:hover {
+  673    border-left: 24px solid transparent;
+  674  }
+  675: .elementor-nav-menu ul ul ul ul a,
+  676: .elementor-nav-menu ul ul ul ul a:active,
+  677: .elementor-nav-menu ul ul ul ul a:focus,
+  678: .elementor-nav-menu ul ul ul ul a:hover {
+  679    border-left: 32px solid transparent;
+  680  }
+  681: .elementor-nav-menu ul ul ul ul ul a,
+  682: .elementor-nav-menu ul ul ul ul ul a:active,
+  683: .elementor-nav-menu ul ul ul ul ul a:focus,
+  684: .elementor-nav-menu ul ul ul ul ul a:hover {
+  685    border-left: 40px solid transparent;
+  686  }
+  687: .elementor-nav-menu a,
+  688: .elementor-nav-menu li {
+  689    position: relative;
+  690  }
+  691: .elementor-nav-menu li {
+  692    border-width: 0;
+  693  }
+  694: .elementor-nav-menu a {
+  695    align-items: center;
+
+  697  }
+  698: .elementor-nav-menu a,
+  699: .elementor-nav-menu a:focus,
+  700: .elementor-nav-menu a:hover {
+  701    line-height: 20px;
+
+  703  }
+  704: .elementor-nav-menu a.current {
+  705    background: #1f2124;
+
+  707  }
+  708: .elementor-nav-menu a.disabled {
+  709    color: #88909b;
+
+  711  }
+  712: .elementor-nav-menu .e-plus-icon:before {
+  713    content: "+";
+  714  }
+  715: .elementor-nav-menu .sub-arrow {
+  716    align-items: center;
+
+  723  }
+  724: .elementor-nav-menu .sub-arrow i {
+  725    pointer-events: none;
+  726  }
+  727: .elementor-nav-menu .sub-arrow .fa.fa-chevron-down,
+  728: .elementor-nav-menu .sub-arrow .fas.fa-chevron-down {
+  729    font-size: 0.7em;
+  730  }
+  731: .elementor-nav-menu .sub-arrow .e-font-icon-svg {
+  732    height: 1em;
+
+  734  }
+  735: .elementor-nav-menu .sub-arrow .e-font-icon-svg.fa-svg-chevron-down {
+  736    height: 0.7em;
+
+  738  }
+  739: .elementor-nav-menu--dropdown .elementor-item.elementor-item-active,
+  740: .elementor-nav-menu--dropdown .elementor-item.highlighted,
+  741: .elementor-nav-menu--dropdown .elementor-item:focus,
+  742: .elementor-nav-menu--dropdown .elementor-item:hover,
+  743  .elementor-sub-item.elementor-item-active,
+
+  749  }
+  750: .elementor-menu-toggle {
+  751    align-items: center;
+
+  757    display: flex;
+  758:   font-size: var(--nav-menu-icon-size, 22px);
+  759    justify-content: center;
+
+  761  }
+  762: .elementor-menu-toggle.elementor-active .elementor-menu-toggle__icon--open,
+  763: .elementor-menu-toggle:not(.elementor-active)
+  764:   .elementor-menu-toggle__icon--close {
+  765    display: none;
+  766  }
+  767: .elementor-menu-toggle .e-font-icon-svg {
+  768    fill: #33373d;
+
+  771  }
+  772: .elementor-menu-toggle svg {
+  773    height: auto;
+  774    width: 1em;
+  775:   fill: var(--nav-menu-icon-color, currentColor);
+  776  }
+  777: span.elementor-menu-toggle__icon--close,
+  778: span.elementor-menu-toggle__icon--open {
+  779    line-height: 1;
+  780  }
+  781: .elementor-nav-menu--dropdown {
+  782    background-color: #fff;
+
+  784  }
+  785: .elementor-nav-menu--dropdown-none .elementor-menu-toggle,
+  786: .elementor-nav-menu--dropdown-none .elementor-nav-menu--dropdown {
+  787    display: none;
+  788  }
+  789: .elementor-nav-menu--dropdown.elementor-nav-menu__container {
+  790    margin-top: 10px;
+
+  795  }
+  796: .elementor-nav-menu--dropdown.elementor-nav-menu__container
+  797    .elementor-sub-item {
+
+  799  }
+  800: .elementor-nav-menu--dropdown a {
+  801    color: #33373d;
+  802  }
+  803: .elementor-nav-menu--dropdown a.current {
+  804    background: #1f2124;
+
+  806  }
+  807: .elementor-nav-menu--dropdown a.disabled {
+  808    color: #b3b3b3;
+  809  }
+  810: ul.elementor-nav-menu--dropdown a,
+  811: ul.elementor-nav-menu--dropdown a:focus,
+  812: ul.elementor-nav-menu--dropdown a:hover {
+  813    border-inline-start: 8px solid transparent;
+
+  815  }
+  816: .elementor-nav-menu__text-align-center
+  817:   .elementor-nav-menu--dropdown
+  818:   .elementor-nav-menu
+  819    a {
+
+  821  }
+  822: .elementor-nav-menu--toggle {
+  823:   --menu-height: 100vh;
+  824  }
+  825: .elementor-nav-menu--toggle
+  826:   .elementor-menu-toggle:not(.elementor-active)
+  827:   + .elementor-nav-menu__container {
+  828    max-height: 0;
+
+  831  }
+  832: .elementor-nav-menu--toggle
+  833:   .elementor-menu-toggle.elementor-active
+  834:   + .elementor-nav-menu__container {
+  835    animation: hide-scroll 0.3s backwards;
+  836:   max-height: var(--menu-height);
+  837    transform: scaleY(1);
+  838  }
+  839: .elementor-nav-menu--stretch
+  840:   .elementor-nav-menu__container.elementor-nav-menu--dropdown {
+  841    position: absolute;
+
+  844  @media (max-width: 767px) {
+  845:   .elementor-nav-menu--dropdown-mobile .elementor-nav-menu--main {
+  846      display: none;
+
+  849  @media (min-width: 768px) {
+  850:   .elementor-nav-menu--dropdown-mobile .elementor-menu-toggle,
+  851:   .elementor-nav-menu--dropdown-mobile .elementor-nav-menu--dropdown {
+  852      display: none;
+  853    }
+  854:   .elementor-nav-menu--dropdown-mobile
+  855:     nav.elementor-nav-menu--dropdown.elementor-nav-menu__container {
+  856      overflow-y: hidden;
+
+  859  @media (max-width: -1) {
+  860:   .elementor-nav-menu--dropdown-mobile_extra .elementor-nav-menu--main {
+  861      display: none;
+
+  864  @media (min-width: -1) {
+  865:   .elementor-nav-menu--dropdown-mobile_extra .elementor-menu-toggle,
+  866:   .elementor-nav-menu--dropdown-mobile_extra .elementor-nav-menu--dropdown {
+  867      display: none;
+  868    }
+  869:   .elementor-nav-menu--dropdown-mobile_extra
+  870:     nav.elementor-nav-menu--dropdown.elementor-nav-menu__container {
+  871      overflow-y: hidden;
+
+  874  @media (max-width: 1024px) {
+  875:   .elementor-nav-menu--dropdown-tablet .elementor-nav-menu--main {
+  876      display: none;
+
+  879  @media (min-width: 1025px) {
+  880:   .elementor-nav-menu--dropdown-tablet .elementor-menu-toggle,
+  881:   .elementor-nav-menu--dropdown-tablet .elementor-nav-menu--dropdown {
+  882      display: none;
+  883    }
+  884:   .elementor-nav-menu--dropdown-tablet
+  885:     nav.elementor-nav-menu--dropdown.elementor-nav-menu__container {
+  886      overflow-y: hidden;
+
+  889  @media (max-width: -1) {
+  890:   .elementor-nav-menu--dropdown-tablet_extra .elementor-nav-menu--main {
+  891      display: none;
+
+  894  @media (min-width: -1) {
+  895:   .elementor-nav-menu--dropdown-tablet_extra .elementor-menu-toggle,
+  896:   .elementor-nav-menu--dropdown-tablet_extra .elementor-nav-menu--dropdown {
+  897      display: none;
+  898    }
+  899:   .elementor-nav-menu--dropdown-tablet_extra
+  900:     nav.elementor-nav-menu--dropdown.elementor-nav-menu__container {
+  901      overflow-y: hidden;
+
+kenlightmercy • kenlightmercy.com/data/plugins/elementor-pro/assets/js/elements-handlers.min.js:
+    43            lottie: c.default,
+    44:           nav_menu: m.default,
+    45            popup: h.default,
+
+    54            loopBuilder: M.default,
+    55:           megaMenu: w.default,
+    56            nestedCarousel: S.default,
+
+   809            super(),
+   810:             elementorFrontend.elementsHandler.attachHandler("mega-menu", [
+   811                () => n.e(727).then(n.bind(n, 3431)),
+
+   824            super(),
+   825:             jQuery.fn.smartmenus &&
+   826:               ((jQuery.SmartMenus.prototype.isCSSOn = function () {
+   827                  return !0;
+
+   829                elementorFrontend.config.is_rtl &&
+   830:                 (jQuery.fn.smartmenus.defaults.rightToLeftSubMenus = !0)),
+   831:             elementorFrontend.elementsHandler.attachHandler("nav-menu", () =>
+   832                n.e(334).then(n.bind(n, 757))
+
+  2039              elementorFrontend.elementsHandler.attachHandler(
+  2040:               "woocommerce-menu-cart",
+  2041                () => n.e(6).then(n.bind(n, 2115))
+
+kenlightmercy • kenlightmercy.com/data/plugins/elementor-pro/assets/js/frontend.min.js:
+   58              controls: new d.default(),
+   59:             DropdownMenuHeightController: u.default,
+   60            };
+
+  109          (t.default = void 0);
+  110:       t.default = class DropdownMenuHeightController {
+  111          constructor(e) {
+
+  113          }
+  114:         calculateStickyMenuNavHeight() {
+  115:           this.widgetConfig.elements.$dropdownMenuContainer.css(
+  116:             this.widgetConfig.settings.menuHeightCssVarName,
+  117              ""
+
+  119            const e =
+  120:             this.widgetConfig.elements.$dropdownMenuContainer.offset().top -
+  121              jQuery(window).scrollTop();
+
+  123          }
+  124:         calculateMenuTabContentHeight(e) {
+  125            return (
+
+  136          }
+  137:         getMenuHeight() {
+  138            return this.isElementSticky()
+  139:             ? this.calculateStickyMenuNavHeight() + "px"
+  140:             : this.widgetConfig.settings.dropdownMenuContainerMaxHeight;
+  141          }
+  142:         setMenuHeight(e) {
+  143:           this.widgetConfig.elements.$dropdownMenuContainer.css(
+  144:             this.widgetConfig.settings.menuHeightCssVarName,
+  145              e
+
+  147          }
+  148:         reassignMobileMenuHeight() {
+  149:           const e = this.isToggleActive() ? this.getMenuHeight() : 0;
+  150:           return this.setMenuHeight(e);
+  151          }
+  152:         reassignMenuHeight(e) {
+  153            if (!this.isElementSticky() || 0 === e.length) return;
+
+  157            e.height() > t &&
+  158:             (e.css("height", this.calculateMenuTabContentHeight(e) + "px"),
+  159              e.css("overflow-y", "scroll"));
+  160          }
+  161:         resetMenuHeight(e) {
+  162            this.isElementSticky() &&
+
+  165          isToggleActive() {
+  166:           const e = this.widgetConfig.elements.$menuToggle;
+  167:           return this.widgetConfig.attributes?.menuToggleState
+  168:             ? "true" === e.attr(this.widgetConfig.attributes.menuToggleState)
+  169:             : e.hasClass(this.widgetConfig.classes.menuToggleActiveClass);
+  170          }
+
+kenlightmercy • kenlightmercy.com/data/plugins/elementor-pro/assets/js/nav-menu.a23fbd67486c5bedf26c.bundle.min.js:
+   24            (this.viewPortHeight = this.getViewportHeight()),
+   25:             this.followMenuAnchors(),
+   26              this.bindEvents();
+   27          }
+   28:         followMenuAnchors() {
+   29            this.$anchorLinks.each((e, t) => {
+
+   31                "" !== t.hash &&
+   32:               this.followMenuAnchor(jQuery(t));
+   33            });
+   34          }
+   35:         followMenuAnchor(e) {
+   36            const t = e.hasClass(this.anchorClass)
+
+   72              this.observer && this.observer.disconnect(),
+   73:             this.followMenuAnchors();
+   74          }
+
+   85            selectors: {
+   86:             menu: ".elementor-nav-menu",
+   87:             anchorLink: ".elementor-nav-menu--main .elementor-item-anchor",
+   88:             dropdownMenu:
+   89:               ".elementor-nav-menu__container.elementor-nav-menu--dropdown",
+   90:             menuToggle: ".elementor-menu-toggle",
+   91            },
+
+  100            return (
+  101:             (t.$menu = this.$element.find(e.menu)),
+  102              (t.$anchorLink = this.$element.find(e.anchorLink)),
+  103:             (t.$dropdownMenu = this.$element.find(e.dropdownMenu)),
+  104:             (t.$dropdownMenuFinalItems = t.$dropdownMenu.find(
+  105:               ".menu-item:not(.menu-item-has-children) > a"
+  106              )),
+  107:             (t.$menuToggle = this.$element.find(e.menuToggle)),
+  108:             (t.$links = t.$dropdownMenu.find("a.elementor-item")),
+  109              t
+
+  111          },
+  112:         dropdownMenuHeightControllerConfig() {
+  113            const e = this.getSettings("selectors");
+
+  116                $element: this.$element,
+  117:               $dropdownMenuContainer: this.$element.find(e.dropdownMenu),
+  118:               $menuToggle: this.$element.find(e.menuToggle),
+  119              },
+  120:             attributes: { menuToggleState: "aria-expanded" },
+  121              settings: {
+  122:               dropdownMenuContainerMaxHeight: "1000vmax",
+  123:               menuHeightCssVarName: "--menu-height",
+  124              },
+
+  127          bindEvents() {
+  128:           this.elements.$menu.length &&
+  129:             (this.elements.$menuToggle
+  130:               .on("click", this.toggleMenu.bind(this))
+  131                .on("keyup", this.triggerClickOnEnterSpace.bind(this)),
+  132              this.getElementSettings("full_width") &&
+  133:               this.elements.$dropdownMenuFinalItems
+  134:                 .on("click", this.toggleMenu.bind(this, !1))
+  135                  .on("keyup", this.triggerClickOnEnterSpace.bind(this)),
+
+  138                "resize",
+  139:               this.stretchMenu
+  140              ),
+
+  144                elementorFrontend.debounce(
+  145:                 this.menuHeightController.reassignMobileMenuHeight.bind(
+  146:                   this.menuHeightController
+  147                  ),
+
+  154              new elementorModules.frontend.tools.StretchElement({
+  155:               element: this.elements.$dropdownMenu,
+  156              });
+
+  162          },
+  163:         toggleMenu(e) {
+  164:           var t = this.elements.$menuToggle.hasClass("elementor-active");
+  165            "boolean" != typeof e && (e = !t),
+  166:             this.elements.$menuToggle.attr("aria-expanded", e),
+  167:             this.elements.$dropdownMenu.attr("aria-hidden", !e),
+  168:             this.elements.$menuToggle.toggleClass("elementor-active", e),
+  169              this.toggleNavLinksTabIndex(e),
+  170:             this.menuHeightController.reassignMobileMenuHeight(this),
+  171              e &&
+
+  178          },
+  179:         stretchMenu() {
+  180            this.getElementSettings("full_width")
+  181              ? (this.stretchElement.stretch(),
+  182:               this.elements.$dropdownMenu.css(
+  183                  "top",
+  184:                 this.elements.$menuToggle.outerHeight()
+  185                ))
+
+  189            if (
+  190:             ((this.menuHeightController =
+  191:               new elementorProFrontend.utils.DropdownMenuHeightController(
+  192:                 this.dropdownMenuHeightControllerConfig()
+  193                )),
+
+  197              ),
+  198:             !this.elements.$menu.length)
+  199            )
+  200              return;
+  201:           const e = this.getElementSettings().submenu_icon.value;
+  202            let t = "";
+
+  204              (e && (t = e.indexOf("<") > -1 ? e : `<i class="${e}"></i>`),
+  205:             this.elements.$menu.smartmenus({
+  206                subIndicators: "" !== t,
+
+  208                subIndicatorsPos: "append",
+  209:               subMenusMaxWidth: "1000px",
+  210              }),
+  211              this.initStretchElement(),
+  212:             this.stretchMenu(),
+  213              !elementorFrontend.isEditMode())
+
+  220          onElementChange(e) {
+  221:           "full_width" === e && this.stretchMenu();
+  222          },
+
+kenlightmercy • kenlightmercy.com/data/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js:
+   77          : 334 === e
+   78:         ? "nav-menu.a23fbd67486c5bedf26c.bundle.min.js"
+   79          : 887 === e
+
+   99          : 6 === e
+  100:         ? "woocommerce-menu-cart.eb61fe086245485310a4.bundle.min.js"
+  101          : 80 === e
+
+  119          : 727 === e
+  120:         ? "mega-menu.b9f434b612d371d24d50.bundle.min.js"
+  121          : 87 === e
+  122:         ? "mega-menu-stretch-content.480e081cebe071d683e8.bundle.min.js"
+  123          : 912 === e
+  124:         ? "menu-title-keyboard-handler.54fb596274a9cc06267d.bundle.min.js"
+  125          : 33 === e
+
+kenlightmercy • kenlightmercy.com/data/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js:
+     1: /*! SmartMenus jQuery Plugin - v1.2.1 - November 3, 2022
+     2:  * http://www.smartmenus.org/
+     3   * Copyright Vasil Dinkov, Vadikom Web Ltd. http://vadikom.com; Licensed MIT */ !(function (
+
+    12    function b(b) {
+    13:     var i = ".smartmenus_mouse";
+    14      if (h || b) h && b && (a(document).off(i), (h = !1));
+
+    78    return (
+    79:     (a.SmartMenus = function (b, c) {
+    80        (this.$root = a(b)),
+
+    85          (this.activatedItems = []),
+    86:         (this.visibleSubMenus = []),
+    87          (this.showTimeout = 0),
+
+   103      }),
+   104:     a.extend(a.SmartMenus, {
+   105        hideAll: function () {
+   106          a.each(e, function () {
+   107:           this.menuHideAll();
+   108          });
+
+   125                this.$root.hasClass("sm-rtl") &&
+   126:                 (this.opts.rightToLeftSubMenus = !0);
+   127:             var g = ".smartmenus";
+   128              this.$root
+   129:               .data("smartmenus", this)
+   130:               .attr("data-smartmenus-id", this.rootId)
+   131                .dataSM("level", 1)
+
+   184                .each(function () {
+   185:                 f.menuInit(a(this));
+   186                })
+
+   194                k = j.replace(i, "");
+   195:             this.$root.find("a:not(.mega-menu a)").each(function () {
+   196                var b = this.href.replace(h, ""),
+
+   201                    c
+   202:                     .parentsUntil("[data-smartmenus-id]", "ul")
+   203                      .each(function () {
+
+   211            if (!b) {
+   212:             var c = ".smartmenus";
+   213              this.$root
+   214:               .removeData("smartmenus")
+   215:               .removeAttr("data-smartmenus-id")
+   216                .removeDataSM("level")
+
+   222            }
+   223:           this.menuHideAll();
+   224            var d = this;
+
+   230                  b.dataSM("shown-before") &&
+   231:                   ((d.opts.subMenusMinWidth || d.opts.subMenusMaxWidth) &&
+   232                      b
+
+   258              this.$root
+   259:               .find("a.has-submenu")
+   260                .each(function () {
+
+   264                })
+   265:               .removeClass("has-submenu")
+   266                .removeDataSM("sub")
+
+   286              if (
+   287:               (this.menuHideAll(),
+   288                !b && !this.opts.isPopup && this.$root.is(":visible"))
+
+   311              : void (
+   312:                 ((this.visibleSubMenus.length &&
+   313                    !a.contains(this.$root[0], b.target)) ||
+   314                    a(b.target).closest("a").length) &&
+   315:                 this.menuHideAll()
+   316                );
+
+   320              if (
+   321:               this.visibleSubMenus.length &&
+   322                (void 0 === this.lastTouch.x2 ||
+
+   332                this.hideTimeout = setTimeout(function () {
+   333:                 c.menuHideAll();
+   334                }, 350);
+
+   354          },
+   355:         getClosestMenu: function (b) {
+   356            for (var c = a(b).closest("ul"); c.dataSM("in-mega"); )
+
+   413          handleItemEvents: function (a) {
+   414:           return this.handleEvents() && !this.isLinkInMegaMenu(a);
+   415          },
+
+   431          },
+   432:         isLinkInMegaMenu: function (b) {
+   433:           return a(this.getClosestMenu(b[0])).hasClass("mega-menu");
+   434          },
+
+   446              var f = this;
+   447:             a(d.parentsUntil("[data-smartmenus-id]", "ul").get().reverse())
+   448                .add(d)
+
+   454              ((this.isCollapsible() && !c) ||
+   455:               this.menuHideSubMenus(
+   456                  this.activatedItems[e - 1] &&
+
+   468                  this.clickActivated) &&
+   469:               this.menuShow(g);
+   470            }
+
+   497                    return (
+   498:                     this.menuHide(d),
+   499                      (this.clickActivated = !1),
+
+   503                  if (g && (h || f))
+   504:                   return this.itemActivate(c, j), this.menuHide(d), !1;
+   505                } else if (
+
+   565          },
+   566:         menuHide: function (b) {
+   567            if (
+
+   581                b.dataSM("scroll") &&
+   582:                 (this.menuScrollStop(b),
+   583                  b
+
+   589                    })
+   590:                   .off(".smartmenus_scroll")
+   591                    .removeDataSM("scroll")
+
+   600              this.activatedItems.splice(d - 1, 1),
+   601:               this.visibleSubMenus.splice(
+   602:                 a.inArray(b, this.visibleSubMenus),
+   603                  1
+
+   607          },
+   608:         menuHideAll: function () {
+   609            this.showTimeout &&
+
+   612              var a = this.opts.isPopup ? 1 : 0,
+   613:               b = this.visibleSubMenus.length - 1;
+   614              b >= a;
+
+   616            )
+   617:             this.menuHide(this.visibleSubMenus[b]);
+   618            this.opts.isPopup &&
+
+   624              (this.activatedItems = []),
+   625:             (this.visibleSubMenus = []),
+   626              (this.clickActivated = !1),
+
+   630          },
+   631:         menuHideSubMenus: function (a) {
+   632            for (var b = this.activatedItems.length - 1; b >= a; b--) {
+   633              var c = this.activatedItems[b].dataSM("sub");
+   634:             c && this.menuHide(c);
+   635            }
+   636          },
+   637:         menuInit: function (a) {
+   638            if (!a.dataSM("in-mega")) {
+   639:             a.hasClass("mega-menu") && a.find("ul").dataSM("in-mega", !0);
+   640              for (
+
+   647              d.length || (d = a.prevAll().find("a").eq(-1)),
+   648:               d.addClass("has-submenu").dataSM("sub", a),
+   649                a
+
+   672          },
+   673:         menuPosition: function (b) {
+   674            var c,
+
+   695              x =
+   696:               (this.opts.rightToLeftSubMenus && !h.is("[data-sm-reverse]")) ||
+   697:               (!this.opts.rightToLeftSubMenus && h.is("[data-sm-reverse]")),
+   698              y =
+   699                2 == j
+   700:                 ? this.opts.mainMenuSubOffsetX
+   701:                 : this.opts.subMenusSubOffsetX,
+   702              z =
+   703                2 == j
+   704:                 ? this.opts.mainMenuSubOffsetY
+   705:                 : this.opts.subMenusSubOffsetY;
+   706            if (
+
+   708                ? ((c = x ? p - k - y : y),
+   709:                 (e = this.opts.bottomToTopSubMenus ? -l - z : q + z))
+   710                : ((c = x ? y - k : p - y),
+   711:                 (e = this.opts.bottomToTopSubMenus ? q - z - l : z)),
+   712              this.opts.keepInViewport)
+
+   740                          (b.dataSM("scroll").up = a(this).hasClass("scroll-up")),
+   741:                           C.menuScroll(b);
+   742                        },
+   743                        mouseleave: function (a) {
+   744:                         C.menuScrollStop(b), C.menuScrollOut(b, a);
+   745                        },
+
+   751                  );
+   752:               var D = ".smartmenus_scroll";
+   753                if (
+
+   765                          mouseover: function (a) {
+   766:                           C.menuScrollOver(b, a);
+   767                          },
+   768                          mouseout: function (a) {
+   769:                           C.menuScrollOut(b, a);
+   770                          },
+   771                          "mousewheel DOMMouseScroll": function (a) {
+   772:                           C.menuScrollMousewheel(b, a);
+   773                          },
+
+   788                    })
+   789:                   .eq(w && this.opts.bottomToTopSubMenus ? 0 : 1)
+   790                    .show(),
+
+   798                  ] = function (a) {
+   799:                   C.menuScrollTouch(b, a);
+   800                  }),
+
+   808          },
+   809:         menuScroll: function (a, b, c) {
+   810            var d,
+
+   815              if (((e.momentum *= 0.92), (d = e.momentum), d < 0.5))
+   816:               return void this.menuScrollStop(a);
+   817            } else
+
+   827                this.activatedItems[j - 1].dataSM("sub").is(":visible") &&
+   828:               this.menuHideSubMenus(j - 1),
+   829              (e.y =
+
+   847            )
+   848:             f && g.eq(e.up ? 0 : 1).hide(), this.menuScrollStop(a);
+   849            else if (!b) {
+
+   854              this.scrollTimeout = i(function () {
+   855:               k.menuScroll(a);
+   856              });
+
+   858          },
+   859:         menuScrollMousewheel: function (a, b) {
+   860:           if (this.getClosestMenu(b.target) == a[0]) {
+   861              b = b.originalEvent;
+
+   866                .is(":visible") &&
+   867:               ((a.dataSM("scroll").up = c), this.menuScroll(a, !0));
+   868            }
+
+   870          },
+   871:         menuScrollOut: function (b, c) {
+   872            f &&
+
+   874                ((b[0] == c.relatedTarget || a.contains(b[0], c.relatedTarget)) &&
+   875:                 this.getClosestMenu(c.relatedTarget) == b[0]) ||
+   876                b.dataSM("scroll-arrows").css("visibility", "hidden"));
+   877          },
+   878:         menuScrollOver: function (b, c) {
+   879            if (
+
+   881              !/^scroll-(up|down)/.test(c.target.className) &&
+   882:             this.getClosestMenu(c.target) == b[0]
+   883            ) {
+   884:             this.menuScrollRefreshData(b);
+   885              var d = b.dataSM("scroll"),
+
+   899          },
+   900:         menuScrollRefreshData: function (b) {
+   901            var c = b.dataSM("scroll"),
+
+   911          },
+   912:         menuScrollStop: function (a) {
+   913            if (this.scrollTimeout)
+
+   920          },
+   921:         menuScrollTouch: function (b, d) {
+   922            if (((d = d.originalEvent), c(d))) {
+   923              var e = this.getTouchPoint(d);
+   924:             if (this.getClosestMenu(e.target) == b[0]) {
+   925                var f = b.dataSM("scroll");
+   926                if (/(start|down)$/i.test(d.type))
+   927:                 this.menuScrollStop(b)
+   928                    ? (d.preventDefault(), (this.$touchScrollingSub = b))
+   929                    : (this.$touchScrollingSub = null),
+   930:                   this.menuScrollRefreshData(b),
+   931                    a.extend(f, {
+
+   946                      a.extend(f, { up: h, touchY: e.pageY }),
+   947:                     this.menuScroll(b, !0, Math.abs(e.pageY - g));
+   948                  }
+
+   958                      )) &&
+   959:                     (this.menuScrollStop(b),
+   960:                     this.menuScroll(b),
+   961                      d.preventDefault()),
+
+   965          },
+   966:         menuShow: function (a) {
+   967            if (
+
+   998                  ),
+   999:                 (this.opts.subMenusMinWidth || this.opts.subMenusMaxWidth) &&
+  1000                    (a
+
+  1002                      .addClass("sm-nowrap"),
+  1003:                   this.opts.subMenusMinWidth &&
+  1004:                     a.css("min-width", this.opts.subMenusMinWidth),
+  1005:                   this.opts.subMenusMaxWidth))
+  1006                ) {
+  1007                  var d = this.getWidth(a);
+  1008:                 a.css("max-width", this.opts.subMenusMaxWidth),
+  1009                    d > this.getWidth(a) &&
+
+  1011                        .removeClass("sm-nowrap")
+  1012:                       .css("width", this.opts.subMenusMaxWidth);
+  1013                }
+  1014:               this.menuPosition(a);
+  1015              }
+
+  1027                a.attr({ "aria-expanded": "true", "aria-hidden": "false" }),
+  1028:               this.visibleSubMenus.push(a),
+  1029                this.$root.triggerHandler("show.smapi", a[0]);
+
+  1037              function () {
+  1038:               b.menuHideAll();
+  1039              },
+
+  1045              return void alert(
+  1046:               'SmartMenus jQuery Error:\n\nIf you want to show this menu via the "popupShow" method, set the isPopup:true option.'
+  1047              );
+
+  1062                : this.$root.show(this.opts.showDuration, d),
+  1063:               (this.visibleSubMenus[0] = this.$root);
+  1064            }
+
+  1074                  if (c) {
+  1075:                   this.menuHideAll(), c[0].focus();
+  1076                    var d = c.dataSM("sub");
+  1077:                   d && this.menuHide(d);
+  1078                  }
+
+  1101              this.hideTimeout = setTimeout(function () {
+  1102:               b.menuHideAll();
+  1103              }, this.opts.hideTimeout);
+
+  1122                    this.activatedItems[this.activatedItems.length - 1][0].blur(),
+  1123:                 this.menuHideAll()),
+  1124                  (this.wasCollapsible = b);
+
+  1138      (a.fn.dataSM = function (a, b) {
+  1139:       return b ? this.data(a + "_smartmenus", b) : this.data(a + "_smartmenus");
+  1140      }),
+  1141      (a.fn.removeDataSM = function (a) {
+  1142:       return this.removeData(a + "_smartmenus");
+  1143      }),
+  1144:     (a.fn.smartmenus = function (b) {
+  1145        if ("string" == typeof b) {
+
+  1150            this.each(function () {
+  1151:             var b = a(this).data("smartmenus");
+  1152              b && b[d] && b[d].apply(b, c);
+
+  1161            alert(
+  1162:             'ERROR\n\nSmartMenus jQuery init:\nThe value of the "data-sm-options" attribute must be valid JSON.'
+  1163            )),
+
+  1175              ),
+  1176:           new a.SmartMenus(this, a.extend({}, a.fn.smartmenus.defaults, b, c));
+  1177        });
+  1178      }),
+  1179:     (a.fn.smartmenus.defaults = {
+  1180        isPopup: !1,
+  1181:       mainMenuSubOffsetX: 0,
+  1182:       mainMenuSubOffsetY: 0,
+  1183:       subMenusSubOffsetX: 0,
+  1184:       subMenusSubOffsetY: 0,
+  1185:       subMenusMinWidth: "10em",
+  1186:       subMenusMaxWidth: "20em",
+  1187        subIndicators: !0,
+
+  1214        markCurrentTree: !0,
+  1215:       rightToLeftSubMenus: !1,
+  1216:       bottomToTopSubMenus: !1,
+  1217        collapsibleBehavior: "default",
+
+kenlightmercy • kenlightmercy.com/data/plugins/global-gallery/js/global_gallery.min.js:
+  1681        g(document).on(
+  1682:         "contextmenu",
+  1683          ".gg_gallery_wrap *, .gg_lcms_slider *, #lcl_wrapper *",
+
+kenlightmercy • kenlightmercy.com/data/plugins/global-gallery/js/lightboxes/lc-lightbox/js/lc_lightbox.gg.min.js:
+  2083        }),
+  2084:       l(document).on("contextmenu", "#lcl_wrap *", function () {
+  2085          return e != lcl_curr_obj || (!n.rclick_prevent && void 0);
+
+kenlightmercy • kenlightmercy.com/data/plugins/gravityforms/assets/js/dist/utils.min.js:
+  2997              specs: {
+  2998:               menubar: 0,
+  2999                scrollbars: 0,
+
+kenlightmercy • kenlightmercy.com/data/plugins/gravityforms/js/gravityforms.min.js:
+  2200    jQuery(document).ready(function () {
+  2201:     jQuery("#gform-form-toolbar__menu").on(
+  2202        "mouseenter focus",
+
+  2204        function () {
+  2205:         jQuery(this).find(".gform-form-toolbar__submenu").toggleClass("open"),
+  2206:           jQuery(this).find(".has_submenu").toggleClass("submenu-open");
+  2207        }
+  2208      ),
+  2209:       jQuery("#gform-form-toolbar__menu").on(
+  2210          "mouseleave blur",
+
+  2212          function () {
+  2213:           jQuery(".gform-form-toolbar__submenu.open").removeClass("open"),
+  2214:             jQuery(".has_submenu.submenu-open").removeClass("submenu-open");
+  2215          }
+  2216        ),
+  2217:       jQuery("#gform-form-toolbar__menu .has_submenu").on(
+  2218          "click",
+
+kenlightmercy • kenlightmercy.com/jp/assets/css/bootstrap.min.css:
+  2658  .input-group:not(.has-validation)
+  2659:   > :not(:last-child):not(.dropdown-toggle):not(.dropdown-menu):not(.form-floating) {
+  2660    border-top-right-radius: 0;
+
+  2671    > :nth-last-child(n
+  2672:     + 3):not(.dropdown-toggle):not(.dropdown-menu):not(.form-floating) {
+  2673    border-top-right-radius: 0;
+
+  2676  .input-group
+  2677:   > :not(:first-child):not(.dropdown-menu):not(.valid-tooltip):not(.valid-feedback):not(.invalid-tooltip):not(.invalid-feedback) {
+  2678    margin-left: calc(var(--bs-border-width) * -1);
+
+  3315  }
+  3316: .dropdown-menu {
+  3317    --bs-dropdown-zindex: 1000;
+
+  3359  }
+  3360: .dropdown-menu[data-bs-popper] {
+  3361    top: 100%;
+
+  3364  }
+  3365: .dropdown-menu-start {
+  3366    --bs-position: start;
+  3367  }
+  3368: .dropdown-menu-start[data-bs-popper] {
+  3369    right: auto;
+
+  3371  }
+  3372: .dropdown-menu-end {
+  3373    --bs-position: end;
+  3374  }
+  3375: .dropdown-menu-end[data-bs-popper] {
+  3376    right: 0;
+
+  3379  @media (min-width: 576px) {
+  3380:   .dropdown-menu-sm-start {
+  3381      --bs-position: start;
+  3382    }
+  3383:   .dropdown-menu-sm-start[data-bs-popper] {
+  3384      right: auto;
+
+  3386    }
+  3387:   .dropdown-menu-sm-end {
+  3388      --bs-position: end;
+  3389    }
+  3390:   .dropdown-menu-sm-end[data-bs-popper] {
+  3391      right: 0;
+
+  3395  @media (min-width: 768px) {
+  3396:   .dropdown-menu-md-start {
+  3397      --bs-position: start;
+  3398    }
+  3399:   .dropdown-menu-md-start[data-bs-popper] {
+  3400      right: auto;
+
+  3402    }
+  3403:   .dropdown-menu-md-end {
+  3404      --bs-position: end;
+  3405    }
+  3406:   .dropdown-menu-md-end[data-bs-popper] {
+  3407      right: 0;
+
+  3411  @media (min-width: 992px) {
+  3412:   .dropdown-menu-lg-start {
+  3413      --bs-position: start;
+  3414    }
+  3415:   .dropdown-menu-lg-start[data-bs-popper] {
+  3416      right: auto;
+
+  3418    }
+  3419:   .dropdown-menu-lg-end {
+  3420      --bs-position: end;
+  3421    }
+  3422:   .dropdown-menu-lg-end[data-bs-popper] {
+  3423      right: 0;
+
+  3427  @media (min-width: 1200px) {
+  3428:   .dropdown-menu-xl-start {
+  3429      --bs-position: start;
+  3430    }
+  3431:   .dropdown-menu-xl-start[data-bs-popper] {
+  3432      right: auto;
+
+  3434    }
+  3435:   .dropdown-menu-xl-end {
+  3436      --bs-position: end;
+  3437    }
+  3438:   .dropdown-menu-xl-end[data-bs-popper] {
+  3439      right: 0;
+
+  3443  @media (min-width: 1400px) {
+  3444:   .dropdown-menu-xxl-start {
+  3445      --bs-position: start;
+  3446    }
+  3447:   .dropdown-menu-xxl-start[data-bs-popper] {
+  3448      right: auto;
+
+  3450    }
+  3451:   .dropdown-menu-xxl-end {
+  3452      --bs-position: end;
+  3453    }
+  3454:   .dropdown-menu-xxl-end[data-bs-popper] {
+  3455      right: 0;
+
+  3458  }
+  3459: .dropup .dropdown-menu[data-bs-popper] {
+  3460    top: auto;
+
+  3477  }
+  3478: .dropend .dropdown-menu[data-bs-popper] {
+  3479    top: 0;
+
+  3500  }
+  3501: .dropstart .dropdown-menu[data-bs-popper] {
+  3502    top: 0;
+
+  3569  }
+  3570: .dropdown-menu.show {
+  3571    display: block;
+
+  3586  }
+  3587: .dropdown-menu-dark {
+  3588    --bs-dropdown-color: #dee2e6;
+
+  3771  }
+  3772: .nav-tabs .dropdown-menu {
+  3773    margin-top: calc(-1 * var(--bs-nav-tabs-border-width));
+
+  3901  }
+  3902: .navbar-nav .dropdown-menu {
+  3903    position: static;
+
+  3964    }
+  3965:   .navbar-expand-sm .navbar-nav .dropdown-menu {
+  3966      position: absolute;
+
+  4011    }
+  4012:   .navbar-expand-md .navbar-nav .dropdown-menu {
+  4013      position: absolute;
+
+  4058    }
+  4059:   .navbar-expand-lg .navbar-nav .dropdown-menu {
+  4060      position: absolute;
+
+  4105    }
+  4106:   .navbar-expand-xl .navbar-nav .dropdown-menu {
+  4107      position: absolute;
+
+  4152    }
+  4153:   .navbar-expand-xxl .navbar-nav .dropdown-menu {
+  4154      position: absolute;
+
+  4198  }
+  4199: .navbar-expand .navbar-nav .dropdown-menu {
+  4200    position: absolute;
+
+kenlightmercy • kenlightmercy.com/media/elementor/css/post-6737.css:
+  147    .elementskit-navbar-nav
+  148:   .elementskit-submenu-panel
+  149    > li
+
+  153    .elementskit-navbar-nav
+  154:   .elementskit-submenu-panel
+  155    > li
+
+  159    .elementskit-navbar-nav
+  160:   .elementskit-submenu-panel
+  161    > li
+
+  165    .elementskit-navbar-nav
+  166:   .elementskit-submenu-panel
+  167    > li:hover
+
+  173    .elementskit-navbar-nav
+  174:   .elementskit-submenu-panel {
+  175    background-color: transparent;
+
+  187    .elementor-element.elementor-element-e1326b5
+  188:   .elementskit-menu-close {
+  189    background-color: var(--e-global-color-white);
+
+  197    .elementor-element.elementor-element-e1326b5
+  198:   .elementskit-menu-container {
+  199    height: 55px;
+
+  211    a
+  212:   .ekit-menu-icon {
+  213    padding: 0px 0px 0px 0px;
+
+  259    > a
+  260:   .elementskit-submenu-indicator {
+  261    color:gold;
+
+  267    > a:hover
+  268:   .elementskit-submenu-indicator {
+  269    color:gold;
+
+  275    > a:focus
+  276:   .elementskit-submenu-indicator {
+  277    color:gold;
+
+  283    > a:active
+  284:   .elementskit-submenu-indicator {
+  285    color:gold;
+
+  289    .elementskit-navbar-nav
+  290:   > li.current-menu-item
+  291    > a {
+
+  296    .elementskit-navbar-nav
+  297:   > li.current-menu-ancestor
+  298    > a {
+
+  303    .elementskit-navbar-nav
+  304:   > li.current-menu-ancestor
+  305    > a
+  306:   .elementskit-submenu-indicator {
+  307    color:gold;
+
+  313    > a
+  314:   .elementskit-submenu-indicator {
+  315    font-size: 12px;
+
+  323    > a
+  324:   .ekit-submenu-indicator-icon {
+  325    font-size: 12px;
+
+  333    > a
+  334:   .elementskit-submenu-indicator {
+  335    margin: 0px -5px 0px 10px;
+
+  341    > a
+  342:   .ekit-submenu-indicator-icon {
+  343    margin: 0px -5px 0px 10px;
+
+  347    .elementskit-navbar-nav
+  348:   .elementskit-submenu-panel
+  349    > li
+
+  360    .elementskit-navbar-nav
+  361:   .elementskit-submenu-panel
+  362    > li
+
+  368    .elementskit-navbar-nav
+  369:   .elementskit-submenu-panel
+  370    > li
+
+  376    .elementskit-navbar-nav
+  377:   .elementskit-submenu-panel
+  378    > li
+
+  384    .elementskit-navbar-nav
+  385:   .elementskit-submenu-panel
+  386    > li:hover
+
+  392    .elementskit-navbar-nav
+  393:   .elementskit-submenu-panel
+  394:   > li.current-menu-item
+  395    > a {
+
+  399    .elementor-element.elementor-element-e1326b5
+  400:   .elementskit-submenu-panel {
+  401    padding: 5px 0px 5px 0px;
+
+  404    .elementor-element.elementor-element-e1326b5
+  405:   .elementskit-menu-hamburger {
+  406    float: right;
+
+  410    .elementor-element.elementor-element-e1326b5
+  411:   .elementskit-menu-hamburger
+  412:   .elementskit-menu-hamburger-icon {
+  413    background-color: var(--e-global-color-white);
+
+  416    .elementor-element.elementor-element-e1326b5
+  417:   .elementskit-menu-hamburger
+  418:   > .ekit-menu-icon {
+  419    color: var(--e-global-color-white);
+
+  595      .elementor-element.elementor-element-e1326b5
+  596:     .elementskit-menu-container {
+  597      max-width: 100%;
+
+  640      > a
+  641:     .elementskit-submenu-indicator {
+  642      color: var(gold);
+
+  648      > a:hover
+  649:     .elementskit-submenu-indicator {
+  650      color: var(gold);
+
+  656      > a:focus
+  657:     .elementskit-submenu-indicator {
+  658      color: var(gold);
+
+  664      > a:active
+  665:     .elementskit-submenu-indicator {
+  666      color: var(gold);
+
+  670      .elementskit-navbar-nav
+  671:     > li.current-menu-item
+  672      > a {
+
+  677      .elementskit-navbar-nav
+  678:     > li.current-menu-ancestor
+  679      > a {
+
+  684      .elementskit-navbar-nav
+  685:     > li.current-menu-ancestor
+  686      > a
+  687:     .elementskit-submenu-indicator {
+  688      color: var(gold);
+
+  694      > a
+  695:     .elementskit-submenu-indicator {
+  696      margin: 0px 0px 0px 0px;
+
+  702      > a
+  703:     .ekit-submenu-indicator-icon {
+  704      margin: 0px 0px 0px 0px;
+
+  708      .elementskit-navbar-nav
+  709:     .elementskit-submenu-panel
+  710      > li
+
+  715      .elementor-element.elementor-element-e1326b5
+  716:     .elementskit-submenu-panel {
+  717      padding: 0px 0px 0px 0px;
+
+  721      .elementskit-navbar-nav
+  722:     .elementskit-submenu-panel {
+  723      border-radius: 0px 0px 0px 0px;
+
+  726      .elementor-element.elementor-element-e1326b5
+  727:     .elementskit-menu-hamburger {
+  728      padding: 7px 8px 8px 8px;
+
+  733      .elementor-element.elementor-element-e1326b5
+  734:     .elementskit-menu-hamburger
+  735:     > .ekit-menu-icon {
+  736      font-size: 22px;
+
+  739      .elementor-element.elementor-element-e1326b5
+  740:     .elementskit-menu-close {
+  741      font-size: 22px;
+
+  859  } /* Start custom CSS for container, class: .elementor-element-3fa8afb */
+  860: .header-menu.header-version-1.ekit-sticky--top {
+  861    border-radius: 50px;
+
+  868  
+  869: .header-menu.header-version-1.ekit-sticky--top
+  870    .elementor-element.elementor-element-edae6fb.e-con-full.e-flex.e-con.e-child {
+
+kenlightmercy • kenlightmercy.com/media/elementor/css/post-7578.css:
+   188  }
+   189: .elementor-widget-nav-menu .elementor-nav-menu .elementor-item {
+   190    font-family: var(--e-global-typography-primary-font-family), Sans-serif;
+
+   194  }
+   195: .elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item {
+   196    color: var(gold);
+
+   198  }
+   199: .elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:hover,
+   200: .elementor-widget-nav-menu
+   201:   .elementor-nav-menu--main
+   202    .elementor-item.elementor-item-active,
+   203: .elementor-widget-nav-menu
+   204:   .elementor-nav-menu--main
+   205    .elementor-item.highlighted,
+   206: .elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:focus {
+   207    color:gold;
+
+   209  }
+   210: .elementor-widget-nav-menu
+   211:   .elementor-nav-menu--main:not(.e--pointer-framed)
+   212    .elementor-item:before,
+   213: .elementor-widget-nav-menu
+   214:   .elementor-nav-menu--main:not(.e--pointer-framed)
+   215    .elementor-item:after {
+
+   217  }
+   218: .elementor-widget-nav-menu .e--pointer-framed .elementor-item:before,
+   219: .elementor-widget-nav-menu .e--pointer-framed .elementor-item:after {
+   220    border-color:gold;
+   221  }
+   222: .elementor-widget-nav-menu {
+   223:   --e-nav-menu-divider-color: var(gold);
+   224  }
+   225: .elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-item,
+   226: .elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-sub-item {
+   227    font-family: var(--e-global-typography-accent-font-family), Sans-serif;
+
+   232    .elementor-element.elementor-element-1649486
+   233:   .elementor-nav-menu
+   234    .elementor-item {
+
+   241    .elementor-element.elementor-element-1649486
+   242:   .elementor-nav-menu--main
+   243    .elementor-item {
+
+   264    .elementor-element.elementor-element-ad5cad5
+   265:   .elementor-nav-menu
+   266    .elementor-item {
+
+   273    .elementor-element.elementor-element-ad5cad5
+   274:   .elementor-nav-menu--main
+   275    .elementor-item {
+
+   725    > a
+   726:   .ekit-menu-icon {
+   727    margin: 0px 0px 0px 0px;
+
+   884    }
+   885:   .elementor-widget-nav-menu .elementor-nav-menu .elementor-item {
+   886      font-size: var(--e-global-typography-primary-font-size);
+
+   888    }
+   889:   .elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-item,
+   890:   .elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-sub-item {
+   891      font-size: var(--e-global-typography-accent-font-size);
+
+  1012    }
+  1013:   .elementor-widget-nav-menu .elementor-nav-menu .elementor-item {
+  1014      font-size: var(--e-global-typography-primary-font-size);
+
+  1016    }
+  1017:   .elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-item,
+  1018:   .elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-sub-item {
+  1019      font-size: var(--e-global-typography-accent-font-size);
+
+  1093  } /* Start custom CSS for container, class: .elementor-element-b012dbb */
+  1094: .ekit-template-content-footer .elementor-nav-menu--main .elementor-nav-menu a {
+  1095    padding: 13px 20px 13px 0;
+
+kenlightmercy • kenlightmercy.com/wp-includes/js/jquery/jquery-migrate.min.js:
+  653        s.each(
+  654:         "blur focus focusin focusout resize scroll click dblclick mousedown mouseup mousemove mouseover mouseout mouseenter mouseleave change select submit keydown keypress keyup contextmenu".split(
+  655            " "
+
+kenlightmercy • kenlightmercy.com/wp-includes/js/jquery/jquery.min.js:
+  5345      ce.each(
+  5346:       "blur focus focusin focusout resize scroll click dblclick mousedown mouseup mousemove mouseover mouseout mouseenter mouseleave change select submit keydown keypress keyup contextmenu".split(
+  5347          " "
+
+kenlightmercy • kenlightmercy.com/wp-includes/js/jquery/ui/core.min.js:
+  2   * https://jqueryui.com
+  3: ⟪ 591 characters skipped ⟫ordion.js, widgets/autocomplete.js, widgets/button.js, widgets/checkboxradio.js, widgets/controlgroup.js, widgets/datepicker.js, widgets/dialog.js, widgets/draggable.js, widgets/droppable.js, widgets/menu.js, widgets/mouse.js, widgets/progressbar.js, widgets/resizable.js, widgets/selectable.js, widgets/selectmenu.js, widgets/slider.js, widgets/sortable.js, widgets/spinner.js, widgets/tabs.js, widgets/tooltip.js
+  4   * Copyright jQuery Foundation and other contributors; Licensed MIT */
+
+kenlightmercy • kenlightmercy.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js:
+  3214                      r.options.classPrefix +
+  3215:                     'chapters-selector-list-item" role="menuitemcheckbox" aria-live="polite" aria-disabled="false" aria-checked="false"><input type="radio" class="' +
+  3216                      r.options.classPrefix +
+
+kenlightmercy • maps.googleapis.com/maps/api/js.html:
+  277  Mca=function(a,b){const c=[];let d=[0,0],e;for(let f=0,g=_.ml(a);f<g;++f)e=b?b(a[f]):[a[f].lat(),a[f].lng()],Ur(e[0]-d[0],c),Ur(e[1]-d[1],c),d=e;return c.join("")};Ur=function(a,b){for(a=a<0?~(a<<1):a<<1;a>=32;)b.push(String.fromCharCode((32|a&31)+63)),a>>=5;b.push(String.fromCharCode(a+63))};_.Vr=function(a=""){return a+" (opens in new tab)"};
+  278: _.Wr=function(a){const b=document.createElement("button");b.style.background="none";b.style.display="block";b.style.padding=b.style.margin=b.style.border="0";b.style.textTransform="none";b.style.webkitAppearance="none";b.style.position="relative";b.style.cursor="pointer";_.wq(b);b.style.outline="";b.setAttribute("aria-label",a);b.title=a;b.type="button";new _.fq(b,"contextmenu",c=>{_.Bm(c);_.Cm(c)});_.iq(b);return b};
+  279  Nca=function(a){const b=document.createElement("header"),c=document.createElement("h2"),d=new _.Xr({Fq:new _.Nn(0,0),bs:new _.Pn(24,24),label:"Close dialogue",ownerElement:a});c.textContent=a.options.title;c.translate=a.options.QG??!0;d.element.style.position="static";d.element.addEventListener("click",()=>void a.Qi.close());b.appendChild(c);b.appendChild(d.element);return b};
+
+  320  _.W=_.Ah(function(a,b,c){if(a.Fg!==0)return!1;_.Eh(b,c,_.Dg(a.Gg));return!0},_.Nh,_.bj);_.Ws=_.Ch(_.Ph,function(a,b,c){b=_.zh(_.he,b,!0);if(b!=null)for(let d=0;d<b.length;d++)ch(a,c,b[d])},_.bj);var Uh=Symbol(),Vh=Symbol(),Rh=class{constructor(a,b){this.Sy=a;this.zv=b;this.isMap=!1}},Qh=class{constructor(a,b,c,d,e){this.Cz=a;this.Sy=b;this.zv=c;this.isMap=d;this.iN=e}};_.tda=new Map;_.Xs={};_.Ys=class extends _.H{constructor(a){super(a)}Gg(){return _.fg(this,1)}Ig(){return _.fg(this,2)}};_.Zs=class extends _.H{constructor(a){super(a)}};var aba=class extends _.H{constructor(a){super(a)}getValue(){const a=_.of(this,2);if(Array.isArray(a)||a instanceof _.H)throw Error("Cannot access the Any.value field on Any protos encoded using the jspb format, call unpackJspb instead");return _.Ff(this,2)}setValue(a){if(a==null)a=this;else if(Array.isArray(a))a=_.qf(this,2,Te(a,0,Ve));else if(typeof a==="string"||a instanceof _.yc||_.oc(a))a=_.Hf(this,2,_.pd(a,!1),_.Ec());else throw Error("invalid value in Any.value field: "+a+" expected a ByteString, a base64 encoded string, a Uint8Array or a jspb array");
+  321: ⟪ 1306 characters skipped ⟫RK BDI BDO SPAN BR WBR NOBR INS DEL PICTURE PARAM TRACK MAP TABLE CAPTION COLGROUP COL TBODY THEAD TFOOT TR TD TH SELECT DATALIST OPTGROUP OPTION OUTPUT PROGRESS METER FIELDSET LEGEND DETAILS SUMMARY MENU DIALOG SLOT CANVAS FONT CENTER ACRONYM BASEFONT BIG DIR HGROUP STRIKE TT".split(" ")),
+  322  new Map([["A",new Map([["href",{El:7}]])],["AREA",new Map([["href",{El:7}]])],["LINK",new Map([["href",{El:5,conditions:new Map([["rel",new Set("alternate author bookmark canonical cite help icon license next prefetch dns-prefetch prerender preconnect preload prev search subresource".split(" "))]])}]])],["SOURCE",new Map([["src",{El:5}],["srcset",{El:6}]])],["IMG",new Map([["src",{El:5}],["srcset",{El:6}]])],["VIDEO",new Map([["src",{El:5}]])],["AUDIO",new Map([["src",{El:5}]])]]),new Set("title aria-atomic aria-autocomplete aria-busy aria-checked aria-current aria-disabled aria-dropeffect aria-expanded aria-haspopup aria-hidden aria-invalid aria-label aria-level aria-live aria-multiline aria-multiselectable aria-orientation aria-posinset aria-pressed aria-readonly aria-relevant aria-required aria-selected aria-setsize aria-sort aria-valuemax aria-valuemin aria-valuenow aria-valuetext alt align autocapitalize autocomplete autocorrect autofocus autoplay bgcolor border cellpadding cellspacing checked cite color cols colspan controls controlslist coords crossorigin datetime disabled download draggable enctype face formenctype frameborder height hreflang hidden inert ismap label lang loop max maxlength media minlength min multiple muted nonce open playsinline placeholder poster preload rel required reversed role rows rowspan selected shape size sizes slot span spellcheck start step summary translate type usemap valign value width wrap itemscope itemtype itemid itemprop itemref".split(" ")),
+
+  357  _.Vm.prototype.forEachProperty=function(a){for(const b in this.Gg)a(this.getProperty(b),b)};_.Vm.prototype.forEachProperty=_.Vm.prototype.forEachProperty;_.Vm.prototype.toGeoJson=function(a){const b=this;_.Sk("data").then(c=>{c.wJ(b,a)})};_.Vm.prototype.toGeoJson=_.Vm.prototype.toGeoJson;var qba=class{constructor(){this.features={};this.unregister={};this.Fg={}}contains(a){return this.features.hasOwnProperty(_.Wm(a))}getFeatureById(a){return Cl(this.Fg,a)}add(a){a=a||{};a=a instanceof _.Vm?a:new _.Vm(a);if(!this.contains(a)){const c=a.getId();if(c||c===0){var b=this.getFeatureById(c);b&&this.remove(b)}b=_.Wm(a);this.features[b]=a;if(c||c===0)this.Fg[c]=a;const d=_.Sm(a,"setgeometry",this),e=_.Sm(a,"setproperty",this),f=_.Sm(a,"removeproperty",this);this.unregister[b]=()=>{_.Gm(d);
+  358: _.Gm(e);_.Gm(f)};_.Tm(this,"addfeature",{feature:a})}return a}remove(a){const b=_.Wm(a);var c=a.getId();if(this.features[b]){delete this.features[b];c&&delete this.Fg[c];if(c=this.unregister[b])delete this.unregister[b],c();_.Tm(this,"removefeature",{feature:a})}}forEach(a){for(const b in this.features)this.features.hasOwnProperty(b)&&a(this.features[b])}};_.Bn="click dblclick mousedown mousemove mouseout mouseover mouseup rightclick contextmenu".split(" ");var Gda=class{constructor(){this.Fg={}}trigger(a){_.Tm(this,"changed",a)}get(a){return this.Fg[a]}set(a,b){var c=this.Fg;c[a]||(c[a]={});_.ol(c[a],b);this.trigger(a)}reset(a){delete this.Fg[a];this.trigger(a)}forEach(a){_.nl(this.Fg,a)}};_.Xm.prototype.get=function(a){var b=bn(this);a+="";b=Cl(b,a);if(b!==void 0){if(b){a=b.bo;b=b.Pt;const c="get"+_.an(a);return b[c]?b[c]():b.get(a)}return this[a]}};_.Xm.prototype.get=_.Xm.prototype.get;_.Xm.prototype.set=function(a,b){var c=bn(this);a+="";var d=Cl(c,a);if(d)if(a=d.bo,d=d.Pt,c="set"+_.an(a),d[c])d[c](b);else d.set(a,b);else this[a]=b,c[a]=null,Zm(this,a)};_.Xm.prototype.set=_.Xm.prototype.set;
+  359  _.Xm.prototype.notify=function(a){var b=bn(this);a+="";(b=Cl(b,a))?b.Pt.notify(b.bo):Zm(this,a)};_.Xm.prototype.notify=_.Xm.prototype.notify;_.Xm.prototype.setValues=function(a){for(let b in a){const c=a[b],d="set"+_.an(b);if(this[d])this[d](c);else this.set(b,c)}};_.Xm.prototype.setValues=_.Xm.prototype.setValues;_.Xm.prototype.setOptions=_.Xm.prototype.setValues;_.Xm.prototype.changed=function(){};var $m={};
+
+  456  l.minX+h.width;l.minY=Math.round(f.y-h.height/2);l.maxY=l.minY+h.height;f=l}else f=null;l=Dea[d];f&&(this.Pg=!0,this.Mg=d,this.Hg&&this.Fg&&(e=_.Jq(g,0,0),this.Hg.set({image:this.Fg,bounds:{min:_.Lq(e,{mh:f.minX,nh:f.minY}),max:_.Lq(e,{mh:f.maxX,nh:f.maxY})},size:{width:h.width,height:h.height}})),e=gca(this,f,g,d,l))}this.Fg&&(_.tq(this.Fg,h),dca(this,e))}}},0);this.Ug=b;this.Sg=new _.sv;this.Jg=c+"/maps/api/js/StaticMapService.GetMapImage";this.Hg=new _.co(null);this.set("div",a);this.set("loading",
+  457: ⟪ 291 characters skipped ⟫s.Qg=a}div_changed(){const a=this.get("div");let b=this.Gg;if(a)if(b)a.appendChild(b);else{b=this.Gg=document.createElement("div");b.style.overflow="hidden";const c=this.Fg=_.Ck("IMG");_.Mm(b,"contextmenu",d=>{_.Am(d);
+  458  _.Cm(d)});c.ontouchstart=c.ontouchmove=c.ontouchend=c.ontouchcancel=d=>{_.Bm(d);_.Cm(d)};c.alt="";_.tq(c,_.ko);a.appendChild(b);_.Yp(this.Lg)}else b&&(_.Mq(b),this.Gg=null)}},cca={roadmap:0,satellite:2,hybrid:3,terrain:4},Dea={0:1,2:2,3:2,4:2};var wv=class{constructor(){Km(this)}addListener(a,b){return _.Em(this,a,b)}Wh(a,b,c){this.constructor===b&&jm(a,this,c)}};_.xv=_.Wl({fillColor:_.fm(_.Jt),fillOpacity:_.fm(_.em(_.tt,_.st)),strokeColor:_.fm(_.Jt),strokeOpacity:_.fm(_.em(_.tt,_.st)),strokeWeight:_.fm(_.em(_.tt,_.st)),pointRadius:_.fm(_.em(_.tt,a=>{if(a<=128)return a;throw _.Ul("The max allowed pointRadius value is 128px.");}))},!1,"FeatureStyleOptions");_.yv=class extends wv{constructor(a){super();this.Fg=a.map;this.Gg=a.featureType;this.Lg=this.Hg=null;this.Kg=!0;this.Jg=a.datasetId;this.Ig=a.ut}get featureType(){return this.Gg}set featureType(a){throw new TypeError('google.maps.FeatureLayer "featureType" is read-only.');}get isAvailable(){return Uq(this).isAvailable}set isAvailable(a){throw new TypeError('google.maps.FeatureLayer "isAvailable" is read-only.');}get style(){Vq(this,"google.maps.FeatureLayer.style");return this.Hg}set style(a){{let b=
+
+  505  Size:_.Pn,UnitSystem:_.yr,Settings:lm,SymbolPath:fu,LatLngAltitude:_.So,Orientation3D:void 0,Vector3D:void 0,event:_.Mt},Br={BicyclingLayer:_.nu,Circle:_.Oo,Data:Cn,GroundOverlay:_.no,ImageMapType:tr,KmlLayer:oo,KmlLayerStatus:{UNKNOWN:"UNKNOWN",OK:"OK",INVALID_REQUEST:"INVALID_REQUEST",DOCUMENT_NOT_FOUND:"DOCUMENT_NOT_FOUND",FETCH_ERROR:"FETCH_ERROR",INVALID_DOCUMENT:"INVALID_DOCUMENT",DOCUMENT_TOO_LARGE:"DOCUMENT_TOO_LARGE",LIMITS_EXCEEDED:"LIMITS_EXCEEDED",TIMED_OUT:"TIMED_OUT"},Map:_.ir,MapElement:ms,
+  506: ZoomChangeEvent:zv,MapTypeControlStyle:{DEFAULT:0,HORIZONTAL_BAR:1,DROPDOWN_MENU:2,INSET:3,INSET_LARGE:4},MapTypeId:_.lt,MapTypeRegistry:fr,MaxZoomService:Bv,MaxZoomStatus:{OK:"OK",ERROR:"ERROR"},OverlayView:_.or,Polygon:_.Ev,Polyline:_.Fv,Rectangle:_.Gv,RenderingType:rv,StrokePosition:{CENTER:0,INSIDE:1,OUTSIDE:2,0:"CENTER",1:"INSIDE",2:"OUTSIDE"},StyledMapType:_.vr,TrafficLayer:ou,TransitLayer:pu,FeatureType:hv,InfoWindow:_.mu,WebGLOverlayView:_.zp},wca={DirectionsRenderer:_.Jn,DirectionsService:_.Gn,
+  507  DirectionsStatus:_.Pt,DistanceMatrixService:_.Kn,DistanceMatrixStatus:_.Vt,DistanceMatrixElementStatus:_.Ut,TrafficModel:_.Qt,TransitMode:_.Rt,TransitRoutePreference:_.St,TravelMode:_.xr,VehicleType:_.Tt},xca={ElevationService:_.Wt,ElevationStatus:_.Xt},Cr={Geocoder:Yt,GeocoderLocationType:_.Zt,ExtraGeocodeComputation:void 0,Containment:void 0,SpatialRelationship:void 0,GeocoderStatus:{OK:"OK",UNKNOWN_ERROR:"UNKNOWN_ERROR",OVER_QUERY_LIMIT:"OVER_QUERY_LIMIT",REQUEST_DENIED:"REQUEST_DENIED",INVALID_REQUEST:"INVALID_REQUEST",
+
+kenlightmercy • maps.googleapis.com/maps-api-v3/api/js/62/3c/intl/en_gb/common.js:
+  1674    _.Iz = function (a) {
+  1675:     a.Fg.__gm_internal__noContextMenu = !0;
+  1676    };
+
+  6828            Ez(a) ||
+  6829:           a.Fg.__gm_internal__noContextMenu ||
+  6830            this.Gi.St(a);
+
+  7239            a,
+  7240:           "contextmenu",
+  7241            (d) => {
+
+kenlightmercy • maps.googleapis.com/maps-api-v3/api/js/62/3c/intl/en_gb/util.js:
+  732    _.qJ = function (a) {
+  733:     _.Mm(a, "contextmenu", (b) => {
+  734        _.Bm(b);
+
+kenlightmercy • stats.wp.com/e-202536.js:
+  82            o(document.body, "click", r);
+  83:           o(document.body, "contextmenu", c);
+  84          } else if (document) {
+  85            o(document, "click", r);
+  86:           o(document, "contextmenu", c);
+  87          }

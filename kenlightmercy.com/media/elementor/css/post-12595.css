@@ -1,7 +1,6 @@
 .elementor-kit-12595 {
-  gold: #042a2d;
+  
   --e-global-color-secondary: #f2f1ed;
-  gold: #8f8f8f;
   --e-global-color-accent:  #FFD700;
   --e-global-color-accentsecondary:  #FFD700;
   --e-global-color-white: #ffffff;
@@ -96,8 +95,7 @@
   --widgets-spacing-row: 20px;
   --widgets-spacing-column: 20px;
 }
- {
-}
+ 
 h1.entry-title {
   display: var(--page-title-display);
 }

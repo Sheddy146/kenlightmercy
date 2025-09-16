@@ -38,7 +38,7 @@
   .elementor-element.elementor-element-4dc53b6
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-image: url("https://jamiepajoel.ca/wp-content/uploads/2024/10/global-networking.webp");
+  background-image: url("../media/2025/07/Backgroung.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -63,7 +63,7 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer::before {
   background-color: #000000;
-  background-image: url("https://jamiepajoel.ca/wp-content/uploads/2024/10/footer-bg-2.png");
+  background-image: url("../media/2025/07/Backgroung ankara.JPG");
   --background-overlay: "";
   background-position: center center;
   background-repeat: no-repeat;
@@ -812,7 +812,7 @@
     .elementor-element.elementor-element-4dc53b6
     > .elementor-motion-effects-container
     > .elementor-motion-effects-layer {
-    background-image: url("https://jamiepajoel.ca/wp-content/uploads/2024/10/global-networking.webp");
+    background-image: url("../media/2025/07/Backgroung ankara.JPG");
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -977,7 +977,8 @@
     .elementor-element.elementor-element-4dc53b6
     > .elementor-motion-effects-container
     > .elementor-motion-effects-layer {
-    background-image: url("https://jamiepajoel.ca/wp-content/uploads/2024/10/global-networking.webp");
+    background-image: url("../media/2025/07/Background2.jpg");
+
     background-repeat: no-repeat;
     background-size: cover;
   }
