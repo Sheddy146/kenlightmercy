@@ -1,8 +1,8 @@
 .elementor-kit-12595 {
   
   --e-global-color-secondary: #f2f1ed;
-  --e-global-color-accent:  #FFD700;
-  --e-global-color-accentsecondary:  #FFD700;
+  --e-global-color-accent:  #FFD700  !important;
+  --e-global-color-accentsecondary:  #FFD700  !important;
   --e-global-color-white: #ffffff;
   --e-global-color-black: #000000;
   --e-global-color-divider: #dfe1de;

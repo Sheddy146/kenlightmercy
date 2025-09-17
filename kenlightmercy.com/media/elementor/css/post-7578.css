@@ -38,11 +38,12 @@
   .elementor-element.elementor-element-4dc53b6
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-image: url("../media/2025/07/Backgroung.jpg");
+  background-image: url("/media/2025/07/Background2.jpg") !important;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 .elementor-7578 .elementor-element.elementor-element-4dc53b6::before,
 .elementor-7578
   .elementor-element.elementor-element-4dc53b6
@@ -63,7 +64,7 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer::before {
   background-color: #000000;
-  background-image: url("../media/2025/07/Backgroung ankara.JPG");
+  background-image: url("/media/2025/07/Kenlight 5.jpg")  !important;
   --background-overlay: "";
   background-position: center center;
   background-repeat: no-repeat;
@@ -812,7 +813,7 @@
     .elementor-element.elementor-element-4dc53b6
     > .elementor-motion-effects-container
     > .elementor-motion-effects-layer {
-    background-image: url("../media/2025/07/Backgroung ankara.JPG");
+    background-image: url("/media/2025/07/Backgroung ankara.JPG")  !important;
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -977,7 +978,7 @@
     .elementor-element.elementor-element-4dc53b6
     > .elementor-motion-effects-container
     > .elementor-motion-effects-layer {
-    background-image: url("../media/2025/07/Background2.jpg");
+    background-image: url("/media/2025/07/Background2.jpg")  !important;
 
     background-repeat: no-repeat;
     background-size: cover;
